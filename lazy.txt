@@ -1,4 +1,4 @@
-!  -----更新时间:  2017-10-14 18:18:51   by:xwhyc-----
+!  -----更新时间:  2017-10-17 22:41:12   by:xwhyc-----
 00kxs.com##.gg
 00sy.com##div.dahengfu,div.header,div.ad360,p[class="tl pd8 pd10"] + ul
 01ny.cn##.cl[style],[style^="width:980px;height:70px;"],#Tab9_1,.topadv,[href^="http://f2.01ny.cn/ad/"]
@@ -2493,6 +2493,7 @@ wmxa.cn##.asdft,.adsbygoogle,[class="imageplus-append imageplus-append-bug-fixer
 wmzhe.com##[class="overflow"],div[class="mt10"],.downgs
 wnacg.org##[class^="couplet couplet"]
 wndflb.com##.wp.a_h,.GzList
+wnflb.com##.GzList
 wobuka2.com##.c-r
 wolepan.com##.gg-down-line
 woquge.com###adt1
@@ -4474,6 +4475,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |http://cdn.directtrk.com/js/pop.js?
 |http://cdn.ediclot.com/fuliba/js/menlianad.js
 |http://cdn.ediclot.com/fuliba/js/n1.js
+|http://cdn.k618img.cn/shehuik618cn/images/$script
 |http://cdn.kali.tv/player/$s@l:'http*t:'??',@l:'',r:'',t:'',@
 |http://cdn.kuaidi100.com/images/adm/
 |http://cdn.moogos.com/js/_jssdk.js
@@ -4926,7 +4928,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |http://impservice.dictweb.youdao.com/
 |http://info.3g.qq.com/g/*_area_advert.htm^
 |http://inside.bitcomet.com/_page_start_zh_cn/images/
-|http://int.dpool.sina.com.cn/iplookup/iplookup.php?
 |http://inte.sogou.com/ct?id=
 |http://ipapi.9669.cn/ipdat/duilian/
 |http://isub.snssdk.com/2/data/ad_event/^
@@ -8755,6 +8756,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||kfqdf.com/$script
 ||kguke.com
 ||khgj.cn
+||kingpolo.com.cn
 ||kiwihk.net$third-party
 ||kjcenter.com$third-party
 ||kjgen.com^
