@@ -1,4 +1,4 @@
-!  -----更新时间:  2017-10-23 22:21:56   by:xwhyc-----
+!  -----更新时间:  2017-10-24 23:08:20   by:xwhyc-----
 00kxs.com##.gg
 00sy.com##div.dahengfu,div.header,div.ad360,p[class="tl pd8 pd10"] + ul
 01ny.cn##.cl[style],[style^="width:980px;height:70px;"],#Tab9_1,.topadv,[href^="http://f2.01ny.cn/ad/"]
@@ -98,6 +98,7 @@
 25xt.com###baidu680,.baiduad700,.forum-20150311101555,.adbox
 262s.com##DIV.ad[style$="width:950px"]
 263y.com##.view_abc
+265g.com##.free_inner_top,.phone_bgban
 265g.com##DIV.g_box,DIV.ggimg,DIV.wrap.h60,div.play_fmt,.back_figure,[href="http://kf.265g.com/index.php?tp=rand"],.fmt,.flash,.bgban,.mban
 28188.com##.couplet_ad,img[src^="http://59.36.101.209"]
 2btu.com##.adgr
@@ -3141,6 +3142,7 @@ zimuku.net##[height="90px"],[height="80px"]
 zimuku.net##[style^="width:820px;height:90px;"]
 zimuku.net##ins.adsbygoogle,div.ad
 zimuzu.tv###bbs_list_ad,ul.room,div.lx167,A[href^="http://www.rrliuxue.com"],div.rrmj_ad,div.ad,div[class="couplet couplet_l"],a[href^="http://www.jianai360.com"]
+zimuzu.tv###help
 zimuzu.tv###xianliaome_window
 zixiaozi.com##div#bottomAD,div#gg
 ziyouge.com###toadsend
@@ -4035,6 +4037,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |http://104.197.140.120
 |http://104.197.4.220
 |http://104.198.198.188
+|http://106.14.95.104:8085/$script
 |http://106.187.95.251
 |http://11.mydrivers.com/002f
 |http://11.mydrivers.com/drivers
@@ -5010,6 +5013,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |http://js.letvcdn.com/lc07_js/201$s@e.serverTime=1e3*t,@e.serverTime=0*t,@
 |http://js.liangyi360.com/sucai/yy*.php?web=
 |http://js.lotour.net/bcef/$script
+|http://js.passport.qihucdn.com
 |http://js.public6.com/m.js
 |http://js.public6.com/novel.pc.js
 |http://js.remenxs.com/css2015/$script
@@ -5676,6 +5680,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |http://ssp.6tj.com/6tj
 |http://ssp.bisai.tv/ssp/presite/1/?t=
 |http://ssp.bisai.tv/ssp/presite/2/?t=
+|http://ssp.sg536.cn/yt_$script
 |http://ssp.tenmax.io/supply/*/rmax-ad?rmaxSpaceId=
 |http://ssp.thescenseproject.com
 |http://sspj.woso.cn/sitegc/wosoad_ssp_
@@ -7909,6 +7914,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||biz5.sandai.net
 ||bizcn008.com
 ||bizhiku.net
+||bjeai.com^
 ||bjedpt.com
 ||bjgztt.com
 ||bjsncykyjctsbjxzx.cn^
@@ -8091,6 +8097,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cqfangduan.com
 ||cqftonline.com
 ||cqgya.com
+||cqhhct.com
 ||cqhnm.com
 ||cqyhd.com
 ||cr173.com/js/
@@ -8927,6 +8934,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||m.xiaoxiaoshuwu.com/$s@((/(MQQBrowser)/i.test(navigator.userAgent)))@@
 ||m.xiaoxiaoshuwu.com/$s@<script src="http://include.xiaoxiaoshuwu.com:8089/*"></script>@@
 ||m.xiaoxiaoshuwu.net/$s@((/(MQQBrowser)/i.test(navigator.userAgent)))@@
+||m7k4.com*.php?
 ||madadsmedia.com^
 ||maibahe300cc.com
 ||maihehd.com
@@ -8937,6 +8945,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mamise111.com/js/
 ||manhuatai.com/$s@<script type="text/javascript">if(typeof __ad==="undefined")*</script>@@
 ||manyou.com
+||maoyun.tv/ads/
 ||market.178.com
 ||masdsmt.com^
 ||maskbaby.com.cn
