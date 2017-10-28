@@ -1,4 +1,4 @@
-!  -----更新时间:  2017-10-26 21:31:27   by:xwhyc-----
+!  -----更新时间:  2017-10-28 14:09:07   by:xwhyc-----
 00kxs.com##.gg
 00sy.com##div.dahengfu,div.header,div.ad360,p[class="tl pd8 pd10"] + ul
 01ny.cn##.cl[style],[style^="width:980px;height:70px;"],#Tab9_1,.topadv,[href^="http://f2.01ny.cn/ad/"]
@@ -876,6 +876,7 @@ btshoufa.net##.wp.a_h,.a_pt,.a_mu,#ggDiv2,.bm.a_c,.portal_block_summary,.a_pb,#m
 btso.pw##[src*="/app/"],[width="728"]
 budejie.com###downApp,#topBanner
 buka.cn###download_bar
+bukade.com###loadimg
 bumimi.com##[href="http://www.meiweis.com/"],#adv
 bunnygo.net##.scupioadslot,#fancybox-wrap,#inline1,#fancybox-overlay,.kiwi-ad-wrapper-728x90
 buzzhand.com##.mid-post-ad,.adsbygoogle,[class^="mash-lightbox"],#rightFixedAd,[style$="height:600px;"],[style^="display:inline-block;"]
@@ -2209,6 +2210,7 @@ sobaidupan.com##.ad_728x90
 sodu.tw##[style^="width:760px;margin:auto;height:91px;"]
 soft.hao123.com##div.soft-ad-banner
 soft6.com##.main_ad_center,.header_top_ad,.lists_right_ad
+sogou.com##[href^="https://s.click.taobao.com"],[id^="AD_"]
 sogou.com##div#bdfs0.rb,div#promotion_adv_container,div.sponsored,a.js_bannerImg,div.bottombar,div.advert-pos,.s_list_ad,#browser_ad,#sogouFrag_0,#frame_ad,.section_ad,#adContent,.ad-main,#wx_m,#adId,#googleAdId,.adsbygoogle,#sogouUnionAd,#spreadAd,#div_ad,[src^="http://amfi.gou.sogou.com/wapxml?pid="],#sf_t1,.side_adv_wrap,#side-module-ad
 sohu.com##.god_header,.godR,[data-role="god_column"]
 sohu.com##div.adA.area,div.adB.area,div#adList.area,div.ad-listB.clear,div.ad680,div.ad300,div[id^="ad_"],SOHUADCODE,DIV#turn-ad.area,DIV.adarea.area,DIV.adtop.area,DIV[class^="ad"].area,#vcr_60_1,DIV.columnC > DIV.titleA[collection="Y"],[class^="active_highQuality"],div.ad,#referr_bd_box,.ad650,.AD-new2,iframe[src^="http://images.sohu.com/bill/"]
@@ -2484,6 +2486,7 @@ weiphone.com##[class^="wea_d_"]
 weiwomoney.com###share_ad
 wenda.haosou.com##div#e_idea_wenda_detail_rightBox,.mod-top-ad,div.garllery_ad,div[class="clearfix js-show-data"]
 wenda.so.com##div#tuiguang,.js-show-data,.garllery_ad
+wendangwang.com##.adsbygoogle,[class^="ad_"],#bd336x280
 wendu.cn###banner,#topads,div.summary,.duilian,[class^="t_2015_"],#top
 wenku.baidu.com###ggbtm
 wenku.baidu.com##[class="vip-discount-dialog"],DIV[id^="html-reader-AD-"],div#wkad5,div#fengchaoad,div.banner-ad,div#ppt-bottom-ads,div#ggbtm-ads,div#Zuniqueid__4,a.page-banner,#lastcell-dialog,.search-aside-newadWrap,.search-aside-adWrap,#wkgg,.ad-icon,[id^="html-reader-banner"],.ec-ad,#add-new [class="item frist-item"],.fc-inner
@@ -3006,6 +3009,7 @@ xunleiyy.com##.p_view_intro
 xunyugong.me##.item-ul-wrap,.bottom-banner,.right-banner,[height="80"]
 xunzai.com##DIV#\32 345float
 xvideos.com###video-ad
+xxroot.com###chs_bannerArea
 y3600.com##.adsbygoogle
 y4dg.cc##.a_mu,.a_pb,.a_pt,.wp.a_h,.frameBox4
 y4dg.cc##[class^="a_"]
@@ -5362,6 +5366,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |http://m.wanren99.com/js/jstest/longteng.js
 |http://m.wayqq.cn/g/$script
 |http://m.weixiangzu.cn/$script
+|http://m.wendangxiazai.com/js/common.js$s@function bdf203()*function foot()@function xxx()@
 |http://m.wodexiaoshuo123.com/js/*lun.js|
 |http://m.wodexiaoshuo123.com/js/zhangjie.js
 |http://m.wucuo.cc/$s@<script type="text/javascript" src="https://sas816.ujikdd041o.cn/*</script>@@
@@ -5544,6 +5549,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |http://play.zktom.net/vodyun/ck/vodyun.js?v=$s@, 1000);@, 0);@
 |http://playad.xjmg.com
 |http://player.b8yy.com/s2yy/cmp/proxy.swf
+|http://player.s1905.com/ipsign/dm530.php?id=$s@l:'*',@l:'',@
 |http://player.yinqu.org/api/$s@l:'http://*t:'5',@l:'',r:'',t:'0',@
 |http://playes.bumimi.com/m*.php?vid=$s@d:'http://player.bumimi.com/*t:'15',@d:'',u:'',l:'',r:'',t:'',@
 |http://playes.bumimi.com:806/m*.php?vid=$s@d:'http://player.bumimi.com*t:'15',@d:'',u:'',l:'',r:'',t:'',@
@@ -7024,6 +7030,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |http://www.webkaka.com/click/$image
 |http://www.webkaka.com/script/cp.js?
 |http://www.wei2008.com/js/jump_s.js
+|http://www.wendangxiazai.com/js/common.js$s@function gg*function bd336x280()@function xxx()@
 |http://www.win007.com/FlashAD.js
 |http://www.win9cn.com/uploads/vda/top960.js$script
 |http://www.wishdown.com/js/alljs.js$script
