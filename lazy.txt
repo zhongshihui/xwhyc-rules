@@ -1,4 +1,4 @@
-!  -----更新时间:  2017-10-29 23:09:14   by:xwhyc-----
+!  -----更新时间:  2017-10-30 23:07:46   by:xwhyc-----
 00kxs.com##.gg
 00sy.com##div.dahengfu,div.header,div.ad360,p[class="tl pd8 pd10"] + ul
 01ny.cn##.cl[style],[style^="width:980px;height:70px;"],#Tab9_1,.topadv,[href^="http://f2.01ny.cn/ad/"]
@@ -3098,7 +3098,7 @@ zhuna.cn##.slide,div.wrap_down_banner
 zhutousan.net##.adsbygoogle
 zhuzhudao.com###hm_t_31354
 zihu.tv##[src^="http://www.zihu.tv/ad"],.index_topad
-zimuku.net###xianliaome_window.[height="90px"],[height="80px"],[style^="width:820px;height:90px;"],ins.adsbygoogle,div.ad
+zimuku.net###xianliaome_window,[height="90px"],[height="80px"],[style^="width:820px;height:90px;"],ins.adsbygoogle,div.ad
 zimuzu.tv###bbs_list_ad,ul.room,div.lx167,A[href^="http://www.rrliuxue.com"],div.rrmj_ad,div.ad,div[class="couplet couplet_l"],a[href^="http://www.jianai360.com"],#help,#xianliaome_window
 zixiaozi.com##div#bottomAD,div#gg
 ziyouge.com###toadsend
@@ -5791,7 +5791,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |http://tg.9665yx.com^
 |http://thecdn.04stream.com/ad11new.php?r=
 |http://thepiratebay.se/static/
-|http://thi##.a_cn,a_pb,a_fl,[height="60"],[height="250"],[height="400"],[width="960"],.portal_block_summary,.it618_firstad_flex,#ct > div.mn > div:nth-child(4)
+|http://thi##.a_cn,.a_pb,.a_fl,[height="60"],[height="250"],[height="400"],[width="960"],.portal_block_summary,.it618_firstad_flex,[style="padding- bottom:5px;width:960px;height:60px;"],[src^="http://s1.thzok.com/"]
 |http://tieba.baidu.com/$s@<script>    _.Module.use('adsense/widget/*</script>@@
 |http://tieba.baidu.com/$s@<script>    _.Module.use('padsense/widget/*</script>@@
 |http://tieba.baidu.com/$s@_.Module.use('adsense-base/widget/*}]);@@
@@ -10113,3 +10113,4 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zzsno1.com
 ||zztlgm.com
 ||zzzyk.com/js/$script
+||m.blwenku.com/templets/s.js
