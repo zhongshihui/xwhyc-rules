@@ -1,4 +1,4 @@
-!  -----更新时间:  2017-11-10 16:27:44   by:xwhyc-----
+!  -----更新时间:  2017-11-10 21:51:34   by:xwhyc-----
 00kxs.com##.gg
 00sy.com##div.dahengfu,div.header,div.ad360,p[class="tl pd8 pd10"] + ul
 00sy.net##.dahengfu,.ad360,[style*="height:250px;"]
@@ -1049,6 +1049,7 @@ css88.com###sup-post-a,.entry-content-top,.banner-con,.amazeui-link,.textwidget
 csstock.cn##div.mtop10
 ctc.qzs.qq.com##IMG[alt="qboss_ad_image"]
 ctfile.com##div#advLeft,div#bd_hl_tuwen,div#head_banner_970,div#dmp_banner,div#__keyrun_RM_Div,.content_info_left_160,[id^="BAIDU_SSP__wrapper_"],.ad-160x600,[href="http://web.ctfile.com/about/adv"],[id^="a_z_"],[id^="ad"],#dmp_banner1
+ctrip.com###mt_cpm_box
 ctrip.com##div.img_show,div.pic-banner
 cv.xxxzc.net##DIV.maintable[style="color: #666; clear: both;"],DIV.spaceborder[style="width: 98%"],TR.t_infoline
 cww.net.cn##.center[height="214"],[height="92"],.ggbar,.gg_01
@@ -2473,6 +2474,7 @@ wdzj.com##.logo-banner,.adv-img
 we5200.com##table[bordercolor="#ffcc66"][width="900"]
 weather.com.cn##div#ccs,div[class^="ad"]
 weathercn.com###download,[id^="topaddiv"]
+webhd.co##.J_advert
 webkaka.com##a[href^="http://www.webkaka.com/click/a_d_s.asp?id="],TABLE#Table1,DIV[style="float:left;width:336px;height:280px;padding:0px 10px 10px 0px;"]
 websetnet.com##.adsbygoogle
 weekendhk.com##.gpt_ads_box,.adsbygoogle,.ad_link
@@ -3143,6 +3145,7 @@ zqnow.com##.AD,.ADLeft,.ADRight,.banner,.match
 zsjuncheng.com.cn##div[style^="width:30%;margin:5px;float:right"]
 zsnews.cn##div.ad,div.float_layer,img[src^="http://data.zsnews.cn/gg/300"],img[src^="http://data.zsnews.cn/gg/640"],img[src^="http://data.zsnews.cn/gg/other/"],img[src^="http://www.zsnews.cn/data/gg/"],img[src^="http://data.zsnews.cn/GG/"],[width="680"][height="80"],div[style="height:80px;"]
 zuanke8.com##.down,.adsbygoogle
+zuanke8.com##[href^="https://s.click.taobao.com"]
 zuiacg.com##.ad-pc
 zuidaima.com##.margin_bottom10,.adsbygoogle,#google_adsense_all_site
 zuoche.com##A[href^="http://pmpsys.cn/sns/xqdownload/xqapp.jspx"]
@@ -3953,6 +3956,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |http://*/upfile/myshow$image
 |http://*/uploadfile/ads/
 |http://*/uuzu_
+|http://*/uyswvswymvxxmmqswrxv.js|
 |http://*/verycms/
 |http://*/videos/other/2017*.f4v
 |http://*/view-960x90
@@ -4478,6 +4482,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |http://cdn.pcbeta.js.inimc.com//data/cache/common.js?$s@var $banner = @@
 |http://cdn.pcbeta.static.inimc.com/public/javascript/201*_9zhounian/script.js$script
 |http://cdn.read.html5.qq.com/image?imageUrl=http%3A%2F%2Fpgdt%2Egtimg%2Ecn
+|http://cdn.shaoit.com/js/jquery.js
+|http://cdn.shaoit.com/js/reply.js
 |http://cdn.tudown.com$script,domain=05sun.com
 |http://cdn.v2ex.co/assets/sidebar$image
 |http://cdn.v2ex.co/friends$image
@@ -7686,6 +7692,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ad.leadbolt.net
 ||ad.leadboltapps.net
 ||ad.ttkvod.com
+||ad.tvblack.com
 ||ad.veegao.com
 ||ad.xigua.com
 ||ad.ximalaya.com
@@ -8385,7 +8392,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||fqtra.com
 ||fqzds.com
 ||free-rc.com
-||freecctv.xyz/Biz/Player?_=$s@flashvars.l = "http://*flashvars.t = 15;@flashvars.l = "";flashvars.r = "";flashvars.d = "";flashvars.u = "";flashvars.t = 1;@
 ||freecctv.xyz/biz/$s@var second = 15;@var second = 1;@
 ||freecctv.xyz/biz/player$s@flashvars.l = "*";@flashvars.l = "";@
 ||freeimg8.com
@@ -9002,6 +9008,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mengmengdas.com
 ||mgwcn.com
 ||mgwl668.com
+||mianbao99.com$s@<script src="https://a.mianbaoimg.com:8083/*</script>@@
 ||mianbao99.com/bd/
 ||miaobige.com/fw.html/
 ||miaozhen.com/
@@ -10176,6 +10183,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zx98.com/mm/$script
 ||zxhymh.com
 ||zxjjzx.com
+||zxwdw.com
 ||zybpj.com
 ||zyiis.net
 ||zymro.com
