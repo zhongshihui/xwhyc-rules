@@ -1,4 +1,4 @@
-!  -----更新时间:  2017-11-13 22:23:08   by:xwhyc-----
+!  -----更新时间:  2017-11-17 22:37:39   by:xwhyc-----
 00kxs.com##.gg
 00sy.com##div.dahengfu,div.header,div.ad360,p[class="tl pd8 pd10"] + ul
 00sy.net##.dahengfu,.ad360,[style*="height:250px;"]
@@ -465,6 +465,7 @@
 @@|http://misc.360buyimg.com/??jdf/*/js/banner.js|
 @@|http://misc.yinfu.cc/sid/function
 @@|http://misc.yinfu.cc/sid/sidplayer.js
+@@|http://music.163.com/eapi/ad/get?_nmclfl=1
 @@|http://note.youdao.com/table/*.js$script
 @@|http://ossweb-img.qq.com/images/nba2k/comm/js/gg.js
 @@|http://p.yiqifa.com/
@@ -627,7 +628,7 @@
 @@||xmxing.net
 @@||xsc.lise.edu.cn/ad/
 ^http://[^.]*\.m\.22ff\.com/
-^http://[^/]*/images/bqg\.js$s@function ad?()@function xxx()@
+^http://[^/]*/images/bqg\.js$s@function ad?()@function xxxx()@
 ^http://[^/]*/js/bqg\.js$s@function banner()*var prevpage=@var prevpage=@
 ^http://[^/]*/xxgg/book\.js$script
 ^http://[^\.]*\.m\.biqu
@@ -1163,7 +1164,7 @@ e0575.cn,e0575.com##td.tac,img[src^="http://img.e0575.com/attachment/image/"],di
 e4dy.com##img[src^="style/"],[height="70"]
 eastday.com###banner_silider{display:block!important;}
 eastday.com##.dsp_adxpf,.header_rightad,[id*="_ad_"],.new360ad,#ny_dbhf,.gglist,[src*="/images/ad/adarticle/"],[class^="banner"],[class^="gg-"],[id^="J_topappdownload"],.active-link,.interest-news,[class^="gg_"],[class^="channel_ybq_x gg_"],[height="90"],.ad,.index-ad,.img_click_gg,[class^="jrtt-ad"]
-eastmoney.com##.lyad,div.wrap.h60,div.wrap.h90,div[class^="layout"].h90,div.mt8.h160,div.banner,DIV#ifhqheadad.adbox,DIV[class^="page-box h"],DIV.adframe,DIV.advert,IFRAME[src^="http://same.eastmoney.com/s?z=eastmoney"],DIV.mt8.h90,iframe[src*=".eastmoney.com/banner/"],[id^="bn_box_"],#leftAD,#rightAD,.cImgDiv,#headerggbig,[id^="flow-ad-"],#tgbottom,#tgtop,.wapad_pagebuttom_fix,.wapad_pagetop,.jjph_box
+eastmoney.com##.lyad,div.wrap.h60,div.wrap.h90,div.mt8.h160,div.banner,DIV#ifhqheadad.adbox,DIV[class^="page-box h"],DIV.adframe,DIV.advert,IFRAME[src^="http://same.eastmoney.com/s?z=eastmoney"],DIV.mt8.h90,iframe[src*=".eastmoney.com/banner/"],[id^="bn_box_"],#leftAD,#rightAD,.cImgDiv,#headerggbig,[id^="flow-ad-"],#tgbottom,#tgtop,.wapad_pagebuttom_fix,.wapad_pagetop,.jjph_box
 eastmoney.com,1234567.com.cn##div.lazy.fund_hei90,div.lazy.fund_hei60,div[data-url^="http://same.eastmoney.com/s?z=eastmoney"]
 eastsilver.com##div.w1000>ul,div.coop_case,[src^="http://upload.eastsilver.com/2015"],.ad690,.ad_channel,.eastsilver_article_wenziAd,.eastsilver_article_endAd
 ebrun.com##div.advice
@@ -2308,6 +2309,7 @@ thepaper.cn##.news_imgad,.rt_ad
 thepiratebay.org##.ads,#sky-right
 thepiratebay.se##a#image,iframe[src^="//cdn1.adexprt.com/"],iframe[src^="//cdn2.adexprt.com/"]
 thn21.com##.adsbygoogle
+thzthz.net##.a_cn,.a_pb,.a_fl,[height="60"],[height="250"],[height="400"],[width="960"],.portal_block_summary,.it618_firstad_flex,[style="padding- bottom:5px;width:960px;height:60px;"],[src^="http://s1.thzok.com/"],[style="margin-top:5px"],[src*=".sinaimg.cn/large/"],[style="padding- bottom:5px;width:960px;height:120px;"]
 tianqi.com##[width="660"][height="60"]
 tianshui.com.cn##[class="hs1 fl"],[src^="gg/"],#FlashID302,[data^="gg/"],[height="70"],[height="85"],[height="1780"],[height="55"],[src^="http://www.tianshui.com.cn/gg/"]
 tiantian.tv##.banner,.adbanner,.toprecomm,#recomApps
@@ -2317,7 +2319,7 @@ tianya.cn##div[id$="banner_950_90"].banner-img-mt10,div[id*="_AD_"],div[class*="
 tianya.com##[class^="tybc-"]
 tianyatorrents.info##[height="60"],[height="70"]
 tianyibook.com###adtop
-tiboo.cn##.sectionAd，[class^="banner"]
+tiboo.cn##.sectionAd,[class^="banner"]
 tieba.baidu.com###pb_adbanner,[class="l_post l_post_bright j_l_post clearfix "],[class="list_item_wrapper j_click_stats"],[data-isautoreply="467"],[data-isautoreply="475"],[data-isautoreply="479"],div.BAIDU_CLB_AD.BAIDU_CLB_AD_pb,DIV.dialogJmodal,div.search_bottomad,DIV.game_spread_thread,DIV#game_rank,DIV#guide_fc.guidance_fc,DIV#j_ten_years,div.pc2client,LI.BAIDU_CLB_AD,DIV.BAIDU_CLB_AD_iframe,DIV#worldcup_guess_frs_wrap,DIV#j_worldcup_info_banner,DIV.game_frs_in_head,DIV.game_content,div[class^="spreadad spreadad_"],li.clearfix.spreadad.spreadad_0001,div[id^="spreadad_"],div.game_banner,div#guide_attrack.guide_attrack,ul.per_list_body.clearfix,[class*="j_thread_list clearfix thread_local_"],div.per_list.j_per_list.per_list_frs,div[id^=dasense_].dasense.dasense_0101,div[id^=dasense_].l_post_bright.dasense,div.lot_wrap,div.game_banner_common_wapper,DIV.u9_head.clearfix,div.global_notice_wrap,a.j_firework_sender.firework_sender,div#platform_left_float,div[class^="dasense dasense_"],li[id^="dasense_"],div.t_con.clearfix,a.j_couplet,div.item.live_show_aside ,div.iframe_wrapper.clearfix,li.j_df_card,DIV.post_is_tpoint,DIV.post_is_tpoint + DIV.p_content.p_content_icon_row1.p_content_nameplate,div.umoney,div[id^="__bdyx_tips"],div[class^="bdyx_tips_"],div#game_pop_window,[class="umoney-dialog"],img.close_btn.j_click_close,img.hover_btn,DIV#j_p_postlist > DIV.l_post.l_post_bright.j_l_post.clearfix + DIV[class$="clearfix"],DIV[class="j_carousel carousel"],[class="client_ad_topBanner_all"],div[id="pagelet_frs-aside/pagelet/ad"],div#game_live_list,div[id="pagelet_encourage-appforum/pagelet/my_app"],div.aside_region.my_app.j_encourage_entry,div.aside_region.life_helper,div#encourage_entry.encourage_entry,div[data-daid],li[data-daid],div.region_bright.my_app,div.tpoint-imgs,li[tid="79764372225"],[class^="frs_pb_leadapp_pop"],#plat_order_head,a[class="ti_item j_click_stats"],a[class="ti_item j_post_item_link"],[class="tb-multi-ad-wrap j_click_stats"],.j_pb_bottom,#cpro_container,#spage-top-banner,.spage-couplet-container,li[tid="94668300830"],[id="94668300830"],[id="94616159964"],li[tid="94616159964"],li[tid="96005294430"],.ad_app_download,[src^="http://adscdn.baidu.com/baichuan/adp/image/"],.tpoint-skin,.forum_recommend_w,[id="pagelet_frs-header/pagelet/head_content_middle"],[lgoinprompt="prompt"],li[tid="96601374387"],#duoku_servers_list,.activity_head,.top_toutu_admarks,.head_banner_img,.head_ad_tag,.l_banner,[class="j_click_stats img_wrap"],[data-field*="?=blockNum?"]
 tieba.baidu.com###plat_recom_carousel,.head_banner{height:75px;}
 tieba.baidu.com/f^##a.j_click_stats,div.sponsor_banner
@@ -5173,6 +5175,9 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |http://m.733dm.net/skin/middle.js
 |http://m.80s.tw/$s@<script type="text\/javascript" src="https:\/\/sas816.ujikdd041o.cn*/script>@@
 |http://m.81xsw.com/js/wap.js
+|http://m.86kl.com/$s@(function(){if(navigator.userAgent.indexOf('UCBrowser')*\/script>")@@
+|http://m.86kl.com/wap/jquery-$s@function ad_wap1()*function ad_wap4()@function xxx()@
+|http://m.86kl.com/wap/wap.js$s@function qijixs_top()*function qijixs_bottom()@function xxx()@
 |http://m.88520.cc/js/88520/
 |http://m.afxfs.com/$s@var randoms@@
 |http://m.afxfs.com/baidu/baidu.js
@@ -6625,6 +6630,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |http://www.huoche.net/public/huoche/ad/
 |http://www.huxiu.com/static/js/jobAds/
 |http://www.i2i2.cn/uploads/soft/2345.gif$image
+|http://www.iav12##.heng,[id*="ad"],[id*="gg"],[src*="sinaimg.cn/large/"],[style*="height:50px;"],[href*="http://xz.go379.com/"]
+|http://www.iav12*/gov/api.js$s@if(document.location.href=="http://*if(screen.width>1000){var flash_h=@if(screen.width>1000){var flash_h=@
 |http://www.icpcw.com/images/jijia960-70_0822.swf
 |http://www.idanmu.com/wp-content/themes/wpbangumi/images/assets/$image
 |http://www.idaybreak.com/wp-content/uploads/idaybreak_cloudleft_aff.png
@@ -6649,8 +6656,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |http://www.itocp.com/html/gk/
 |http://www.iwin10.com/*.html$s@<div style=" width:300px; height:250px;*>@<div style="display:none!important;">@
 |http://www.jandown.com/link.php$s@window.open('http://@@
-|http://www.jav12##.heng,[id*="ad"],[id*="gg"],[src*="sinaimg.cn/large/"],[style*="height:50px;"],[href*="http://xz.go379.com/"]
-|http://www.jav12*/gov/api.js$s@if(document.location.href=="http://*if(screen.width>1000){var flash_h=@if(screen.width>1000){var flash_h=@
 |http://www.javbus##DIV[class="row-fluid"],[class="banner-movie-top"],div.pt10,div.ptb20,img[src^="/ads/"],.pt20,.pb10,.ptb10,[class="hidden-xs text-center"]
 |http://www.jb51.net/$s@<script>rjLoader();</script>*rjLoader(true);</script>@@
 |http://www.jdzj.com/JDZJStyle/20*/jdzjgg/
@@ -9778,6 +9783,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||vsnoon.com
 ||vtale.org$third-party
 ||vupload.duowan.com
+||vvnna.com
 ||vvvulqn7.com
 ||vwws6.net
 ||wa.gtimg.com^
