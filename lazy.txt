@@ -1,4 +1,4 @@
-!  -----更新时间:  2017-11-19 22:25:41   by:xwhyc-----
+!  -----更新时间:  2017-11-21 23:50:33   by:xwhyc-----
 00kxs.com##.gg
 00sy.com##div.dahengfu,div.header,div.ad360,p[class="tl pd8 pd10"] + ul
 00sy.net##.dahengfu,.ad360,[style*="height:250px;"]
@@ -355,7 +355,7 @@
 @@|http://*/mygg/sagg$image
 @@|http://*/templates/frontend/moneymaker/js/swfobject.js
 @@|http://*/templates/frontend/moneymaker/js/videoplayer.js|
-@@|http://*/videos/other/201701
+@@|http://*/videos/other/2017101
 @@|http://*/xiaoyi/js/denglu.js|$script
 @@|http://17173im.alllget.com/main/s?user=
 @@|http://17173im.qtmojo.com/main/s?user=||17173_video&
@@ -408,6 +408,7 @@
 @@|http://d.107788.com/xml/?s=
 @@|http://d.x77918.com/qt/in.js
 @@|http://d1.sina.com.cn/zhuyan/jiaqing/F1/f1ad_nav_bg.jpg$image
+@@|http://data.video.qiyi.com/videos/other/
 @@|http://de.as.pptv.com/crossdomain.xml
 @@|http://dp.gtimg.cn/discuzpic/0/discuz_qqgame_gamebbs_qq_com_forum_$domain=gamebbs.qq.com
 @@|http://dvs.china.com/crossdomain.xml
@@ -1586,6 +1587,7 @@ jingyan.baidu.com##div.left-promotion,.bottom-ads-container,.wgt-left-promo
 jinhua.com.cn##img[src^="http://img.jinhua.com.cn/ad_pic/"],#ad-huiyi,.FocusAD,#container > div[style^="height:"],[class^="banner"]
 jishuqq.com##.topAd,[height="70px"],.adsbygoogle
 jisilu.cn##[style^="height:60px;"]
+jisutiyu.com##.bannerhead
 jisutiyu.com##.toprecomm,#top_ad,.ggtop,.apprecomm
 jitapu.com###adverOrImage,#adverBottom,#bbsFresh,#AdvIndex,iframe[src^="http://www.jitapu.com/inc/adver_"]
 jiuzhiling.com##[src^="/images/jiaoyou"]
@@ -2219,6 +2221,7 @@ sobaidupan.com##.ad_728x90
 sodu.tw##[style^="width:760px;margin:auto;height:91px;"]
 soft.hao123.com##div.soft-ad-banner
 soft6.com##.main_ad_center,.header_top_ad,.lists_right_ad
+sogou.com###sogou-ad-top-external
 sogou.com##[href^="https://s.click.taobao.com"],[id^="AD_"]
 sogou.com##div#bdfs0.rb,div#promotion_adv_container,div.sponsored,a.js_bannerImg,div.bottombar,div.advert-pos,.s_list_ad,#browser_ad,#sogouFrag_0,#frame_ad,.section_ad,#adContent,.ad-main,#wx_m,#adId,#googleAdId,.adsbygoogle,#sogouUnionAd,#spreadAd,#div_ad,[src^="http://amfi.gou.sogou.com/wapxml?pid="],#sf_t1,.side_adv_wrap,#side-module-ad
 sohu.com##[id^="ads_"],#miaozhenad
@@ -4589,6 +4592,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |http://daohang.114so.cn/zy2/
 |http://data.chiasenhac.com/banner
 |http://data.jijidown.com/free/*.txt|
+|http://data.video.qiyi.com/videos/other/$f@s@\.f4v\?@.f4vxxx?@
 |http://data.vod.itc.cn/?new=*.mp4|
 |http://data.vod.itc.cn/?prod=ad&new=*.mp4
 |http://db-cache.t57.cn/cert.php
@@ -6655,7 +6659,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |http://www.inszu.com/js/qian/$script
 |http://www.iqiyi.com/*.html?key=$f@s@\.html\?key=.*@.html@
 |http://www.iqiyi.com/common/clientPopLstyle.html
-|http://www.iqiyi.com/common/flashplayer/201*af8f6df.swf$r@http://update.adbyby.com/swf/iqiyi5d.swf
 |http://www.it.hc360.com/js/endpage/endpage_hzh_
 |http://www.itcast.cn/kefu/js/kefu.js$script
 |http://www.itcast.cn/kefu/js/kf.js$script
@@ -7504,6 +7507,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||51jumintong.com
 ||51vipedu.com
 ||51weidashi.com^
+||51wendang.com/js/common.js
 ||51xumei.com
 ||51yes.com^
 ||51zxw.net/adad/
@@ -9501,6 +9505,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||snyu.com^
 ||snyu.sdo.com^
 ||sogou.com/html/ext/agentsdk.js
+||sogoucdn.com/galaxy/sogouAD.js
 ||sogoucdn.com/wap/js/wp.js
 ||sohu.com.cn/ppp/bms/bms.popup.
 ||sohu.com/adgtr/
