@@ -1,4 +1,4 @@
-!  -----更新时间:  2017-11-24 22:47:26   by:xwhyc-----
+!  -----更新时间:  2017-11-25 17:15:43   by:xwhyc-----
 00kxs.com##.gg
 00sy.com##div.dahengfu,div.header,div.ad360,p[class="tl pd8 pd10"] + ul
 00sy.net##.dahengfu,.ad360,[style*="height:250px;"]
@@ -223,6 +223,7 @@
 5imx.com###diy1,[width="166"],.ad3,.ad2
 5iyq.com,chi577.com##.top_l,.top_r,[class^="index_ad"],#pan1,#pan2,[style="margin-top:5px;overflow:hidden;"],.wp.a_t,.wp.a_h,.ad980,.close_form,.close_ad,#bottom_banner_div_out,#bottom_banner_img_div
 5moe.com##div[id^="moegg"]
+5vdd.com##.right_ad_250,#sss,.ad960
 5ydj.com##[height="90"],[height="80"],[height="68"],td[height="250"]
 600000.net##[class^="ad-"]
 60808.org##DIV.a_pb,DIV.a_mu,DIV.bm.a_c
@@ -633,7 +634,7 @@
 @@||xmxing.net
 @@||xsc.lise.edu.cn/ad/
 ^http://[^.]*\.m\.22ff\.com/
-^http://[^/]*/[a-z]{21}\.js
+^http://[^/]*/[a-z]{21,23}\.js
 ^http://[^/]*/images/bqg\.js$s@function ad?()@function xxxx()@
 ^http://[^/]*/js/bqg\.js$s@function banner()*var prevpage=@var prevpage=@
 ^http://[^/]*/js/dl\d+\.js
@@ -2118,6 +2119,7 @@ renwai.ren##div.context_t,div.ad,div.textwidget div[class^="forum-201"]:first-ch
 repaik.com##div.a_cn,DIV.a_mu,.a_pt,.a_pr
 rfidworld.com.cn##.rfidADClass,.indexBanner,#divLeftAd,#divAdPr1
 right.com.cn##div#diy1.area,div.a_p,div.a_pr,DIV.column.frame-1-c,div.wp.a_f,div.a_cn,.a_mu,.a_pt,.a_pb
+rising.cn##.shuangshiyib
 rj.baidu.com##div#ader,div.mid-recommend,div.ad,dl.cl.xld,.entrance
 rkdot.com##.adbanner
 roboo.com##.footer-ads,.img-info01
@@ -4790,6 +4792,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |http://haha.sogou.com/views/static/js/main.js?t=$s@,l:"http://*,my_url:@,l:"",t:0,d:"",my_url:@
 |http://hanime.tv/$s@<script>BetterJsPop.add*</script>@@
 |http://hao.360.cn/festival_shuang11.html
+|http://hb.vntsm.com/v2/live/hb.js
 |http://hc.yinyuetai.com/partner/yyt/*.mp4
 |http://hd.fuulii.com/e/DownSys/play/$s@c:*t:5*};@t:0};@
 |http://hd.gg/##div.a_mu
@@ -7760,7 +7763,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||adglare.net
 ||adglare.org$third-party
 ||adhai.com
-||adinfo.ra1.xlmc.sec.miui.com
 ||adjuggler.com^
 ||adjwl.com
 ||adk2x.com
@@ -7887,6 +7889,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||api.cupid.qiyi.com/show2
 ||api.inwemo.com
 ||api.ra1.xlmc.sandai.net
+||api.sec.miui.com
 ||api.tuisong.baidu.com
 ||api.useragentswitcher.org/api/settingslist?data-wid
 ||apmengxin.com
@@ -8046,6 +8049,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ccies.cn
 ||ccmdgg.com
 ||cd828.com
+||cdn-thumb.fds.api.xiaomi.com
+||cdn.fds.api.xiaomi.com
 ||cdn.jesgoo.com$third-party
 ||cdn.zampdsp.com/static/scripts/
 ||cdnads.com
@@ -8685,6 +8690,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ilepai.com
 ||iloveyouxi.com
 ||image.agency.91.com^$image
+||image.box.xiaomi.com
 ||images.chinaz.com^
 ||images.sohu.com/bill/
 ||images.sohu.com/cs/
@@ -9075,6 +9081,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mingxingtechan.com$third-party
 ||mingysh.com
 ||minisite2012.qq.com$s@<div class="ad_bg">@<div>@
+||misc.pandora.xiaomi.com
+||mishop.cdn.pandora.xiaomi.com
 ||mishop.pandora.xiaomi.com
 ||mixer.video.iqiyi.com/jp/mixin/resources/
 ||mm.admob.com
@@ -9175,6 +9183,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||nz04com.com/aabdd/lrflyad.js?v=
 ||nzezn.com
 ||o091i.com^
+||o2o.api.xiaomi.com
 ||oadz.com/
 ||octopuspop.com
 ||officeme.cn
@@ -9397,6 +9406,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||represented.cn
 ||req.adsmogo.com
 ||requested.cn
+||res.qhupdate.com
 ||res.yijifen.com
 ||resetgey.com
 ||resource.m0lxcdn.kukuplay.com^
@@ -9539,6 +9549,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ssrj.net
 ||staqnet.com
 ||star8.net
+||starfish.pandora.xiaomi.com
 ||start1999.com
 ||stat.pandora.xiaomi.com
 ||stat4.stat.v-56.com/player/swf_ad?vid=
@@ -10020,6 +10031,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||xkqpco.com
 ||xkwfao.com
 ||xlcun.com
+||xlmc.sandai.net
+||xlmc.sec.miui.com
 ||xm9178.com
 ||xm9x.net/includes/js/dl.js
 ||xmbhj.com
