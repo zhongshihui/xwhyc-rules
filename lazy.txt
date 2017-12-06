@@ -1,4 +1,4 @@
-!  -----更新时间:  2017-12-02 15:38:30   by:xwhyc-----
+!  -----更新时间:  2017-12-03 22:51:30   by:xwhyc-----
 00kxs.com##.gg
 00sy.com##div.dahengfu,div.header,div.ad360,p[class="tl pd8 pd10"] + ul
 00sy.net##.dahengfu,.ad360,[style*="height:250px;"]
@@ -1262,6 +1262,7 @@ flyertea.com##[height="80"]
 flyme.cn###appDownloadTips
 fm.baidu.com##.ad-material,.audio-ad
 fmdisk.com##div#dl_tips,div#down_box2,img[width="960"][height="90"],ins.adsbygoogle,div#dll,div#dlr,img[width="960"][height="80"],div#Layer100,img[width="650"][height="90"],img[src^="http://www.fmdisk.com/ima/"]
+fobshanghai.com##.altbg2
 focus.cn##div.tl10[id^="TL0"],div.ad980.area,.aside-bannersm,.news-banner-top,[ads-tag="box"],.ad-xulie1
 foobar2000.bbs.am##[id^="ad"]
 forum.51nb.com##img[height="90"][width="728"],TABLE.t_rown[width="875"],TABLE.t_rown[width="98%"],DIV.maintable > DIV.right
@@ -1598,6 +1599,7 @@ jia.360.cn##div[class="index-banner"]
 jia360.com###adl,#adr,#mainADswitch,.banner
 jiang.com##[class^="hongbao"],.downApp
 jianglishi.cn##.banner_page,.topad,.wrapad,.wrapadr
+jiangsuguandan.com##[href*="../../imge/"]
 jianke.com###LRfloater1,[id^="LRdiv"]
 jiaodong.net###ALayer1,#ALayer2,.h50,#titledownad,.FixedBanner,.FixedClose,.adg
 jiaoyizhe.com##.a_f
@@ -2334,6 +2336,7 @@ techweb.com.cn##div.xxbox_news,A[href^="http://s.click.taobao.com/t?"],div#liepi
 tengtv.com##[class^="adimg"]
 teteyu.com###p-left,#p-right
 tetonashentai.com##div[id^="dp-ad-"]
+teyule.net###ifloatdiv
 tgbus.com##DIV#txt_ad2.txt_ad2,DIV[class^="a760x100"],DIV.s.a200x375,DIV[class^="a200x"],DIV.ad111.fc.t10,div[class^="ad"][class$="fx"],div.ad[style^="width"],div.a_pr,div[id^="TGBUS_VISTA_CONTAINER_"],div#duilian,div#neck_970,div.ad760x100,div.in.ad200x375,DIV.s.p3 + DIV.ad,div.db.mar5,div.db.mb10,div.db.mb20,div[style="width: 300px; height: 250px; background: #ccc;"]
 tgfcer.com##.ad_headerbanner,.ad_text,#rules,.adsbygoogle,#tk_box_1,.ad_footerbanner,[class^="ad_textlink"]
 th7.cn##div[style^="display: block; width: 200px; height: 200px;"]
@@ -5463,6 +5466,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |http://m.zhuoyaju.com/$s@<script src="http://i.zhuoyaju.com*</script>@@
 |http://m.zhuoyaju.com/$s@<script src="http://js6190.yzh360.com:*</script>@@
 |http://m.zhutousan.net/js/ztswap.js
+|http://m.zineworm.com/m/m.js$s@function _17mb_@function _17mb_xxx@
+|http://m.zineworm.com/ww/xf.js
 |http://m.zixuntop.com/js/showv2.js
 |http://m.zkvivi.com/$s@<script data-union-ad data-priority=1 data-position=fixed>*</script>@@
 |http://m.zkvivi.com/app/com.js$s@function qijixs_*(){*}@@
@@ -7595,6 +7600,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||5j.com
 ||5moe.com/player/ad.xml
 ||5pub.com
+||5u941.com
 ||5wapp.com$third-party
 ||5x5q.com/js/$script
 ||600ad.com
@@ -8060,6 +8066,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||btmango.com/templates/0111/style/*.js?v=
 ||btspread.com/app/bts/View/js/base.js
 ||btspread.com/script/$script
+||bttt.la/static/*960.js|$script
 ||btyou.com
 ||bubulai.com/js/html.js
 ||bubulai.com/js/xv.js
@@ -8479,6 +8486,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||fnkjj.com
 ||fnkyyrgraizy.com
 ||fns212.com
+||fobshanghai.com/bbsad/
 ||focusprolight.com
 ||food5.net$third-party
 ||fotao9.com$script
@@ -9671,6 +9679,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||t70123.com
 ||ta80.com
 ||taiwan123.cn$s@<script>;(function(){var a=new XMLHttpRequest();*</script>@@
+||taiwan123.cn$s@ads_codes: [@@
 ||tangchaohes.cn
 ||tangoutianxia.com
 ||tanjs.com
@@ -9752,6 +9761,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tsdlp.com
 ||tsdm.net$s@<script>ipad_s('dm_tsdm','http://moe.005.tv/',50); </script>@@
 ||ttavav6.com/zz/
+||ttklg.net
 ||ttlm.cc^
 ||ttlowe.com
 ||ttxknb.com
@@ -10195,6 +10205,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||yktj.yzz.cn
 ||ylunion.com
 ||ym.2liang.com
+||ym193.com$script
 ||ymcdn.cn
 ||ynbzxh.com
 ||yndianju.com
