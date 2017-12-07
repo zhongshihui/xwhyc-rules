@@ -1,4 +1,4 @@
-!  -----更新时间:  2017-12-03 22:51:30   by:xwhyc-----
+!  -----更新时间:  2017-12-07 22:59:12   by:xwhyc-----
 00kxs.com##.gg
 00sy.com##div.dahengfu,div.header,div.ad360,p[class="tl pd8 pd10"] + ul
 00sy.net##.dahengfu,.ad360,[style*="height:250px;"]
@@ -1011,6 +1011,7 @@ cn3x.com.cn##.gg1,[class^="list_gg"]
 cna.com.tw##div[class^="ad_"]
 cnal.com##img[src^="http://dreambox.cnal.com/image"],[id^="indexbd"],.index_top_r
 cnbeta.com##.cbv,.tigerstock,div.time,ins.adsbygoogle,[href="http://www.dangbei.com/?cnbeta"],[class="item cooperation"],.cbhelp,[href^="http://click.aliyun.com/m/"],.commt-r,#fixed_area,#aswift_0_expand,.other_news,a[href^="https://www.tigerbrokers.com/market/"],.article-global,.cnbeta-side-sponsor
+cnbeta.com##[id^="dfb-wrapper-"]
 cnblogs.com##div[id^="google_ad_"],[id^="ad_"],#banner_right,[id^="cnblogs_a"],[id^="cnblogs_b"],[id^="cnblogs_c"].c_ad_block,[id^="div-gpt-ad-"],[height="60"],.adPopup
 cnbzol.com##.ad300x250
 cndesign.com##a[href="https://7344.taobao.com/"],ins.adsbygoogle
@@ -1231,6 +1232,7 @@ fan0876.com##.ad-pc
 fangying.tv##img[alt="Xzy"]
 fanjian.net###vad,.banner
 fantasy.tv##.play_ad,.video_ad_left
+fantasy.tv##.play_ad_one
 fanyi-pro.baidu.com###coupon-ad
 fanyi.baidu.com##.trans-side-ad-wrap,div.banner-wrap.inner,.spread-wrap,.manual-spread,.appbanner
 fawan.com###ynetG_B1
@@ -1319,9 +1321,8 @@ ganji.com##div[class^="app-guide"],.banner,[id^="GcnADId"]
 ganpapa.com##.ad-body,[class^="hidden-xs couplet_"],[class^="hidden-xs dibu_"],div[style^="display: block; position: fixed;"]
 gansudaily.com.cn##.itemFloat
 gaokao.com##[class^="adout"]
-gaoqing.la##.aligncenter
 gaoqing.la##body.custom-background{background-image:url('');}
-gaoqing.la##img.alignleft,#blogname,[href*="/?intr"],[href^="http://ad."]
+gaoqing.la##img.alignleft,#blogname,[href*="/?intr"],[href^="http://ad."],.aligncenter,[height="60"]
 gaoqingkong.com##[src^="http://img.gaoqingkong.com/uploads"],a[href^="http://www.gaoqingkong.com/go?https://item.taobao.com/item.htm"],.textwidget,img#ad,#blogname
 gaoxiaobar.com##.player-pictureAd-countdown
 gasaq.com##[class^="guanggao"]
@@ -1975,6 +1976,7 @@ opda.com##div.fix_twice
 open-open.com##[src^="http://www.open-open.com/gg_images/"]
 opticsky.cn##[height="60"],.adsbygoogle
 orsoon.com###youxi,#adsmid,.AD6,.ad_show,.ad_show_1,.ad_show_2,[width="870"][height="60"]
+orsoon.com##.down-sect2,.down-sect1,#other-link,#btn-down-one
 oschina.net##[src="/banner-aliyun.jpg"]
 oschina.net##a[name="question_banner_one"],div.google_ads,img[src^="http://static.oschina.net/uploads/cooperation/question_banner"],img[src^="http://static.oschina.net/uploads/ad/"],ins.adsbygoogle,#project_ad_banner,[src^="http://static.oschina.net/uploads/cooperation/index_banner_"],[width="300"][height="250"],#blog-title-ad,[data-tracepid^="index_banner"],.news-banner,[data-traceid$="_ad"],[data-traceid^="questionbanner"],[class$="_ad"],[class$="-ad"],[data-tracepid="question_detai_above"]
 ourjav.com##[width="300"]
@@ -2383,6 +2385,7 @@ tools.2345.com##div.p-tps
 top81.com.cn##[class^="ad_"]
 topfo.com##[src="http://zs.topfo.com/zt/kdgj/img/300_85.gif "],img[width="960px"][height="90px"],.con.jj-dk01
 torrentsearchweb.net##div#__cpf_popup__
+toutiao.com##[ad-cursor],[ad_show]
 toutiao.com##div.banner-index-bottom,#pagelet-commbox,.feedcomm,#pagelet-iad,#pagelet-btestcommbox,#pagelet-detailadd,[data-tag="ad"],#pagelet-btestad_taobao,#pagelet-adindextop,#detailAd,[data-tag^="ad_"],.J_add,#detailAd2,.adClientFlag,iframe[src^="http://toutiao.com/adsafe/"],.tbanneradd,iframe[src^="http://www.toutiao.com/adsafe/"],[src^="//www.toutiao.com/api/pc/adsafe/"],.carAd,.bonus-wrapper,.icon-container
 touxiang.la##.ad00,.adsbygoogle,.banner
 trakt.tv##div#large-banner-ad,div#small-banner-ad,div#large-banner-bottom-ad,div#small-banner-bottom-ad
@@ -3704,6 +3707,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |http://*/d/960.js|$script
 |http://*/d/Y2xpY2skL2QkMT
 |http://*/d/c2hvd19zdGQk*&id_site=12&id_channel=881&ref=
+|http://*/d/f.js|
 |http://*/d/f1.js|$script
 |http://*/d/f2.js|$script
 |http://*/d/f3.js|$script
@@ -4703,6 +4707,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |http://dp.mcncc.com/yeyou/
 |http://drivers.160.com/UploadFile/ad/
 |http://drmcmm.
+|http://dspmy.ge95.com^
 |http://dup.baidustatic.com/dup/ui/painter/pcInsert.js
 |http://dup.baidustatic.com/js/dm.js
 |http://dup.baidustatic.com/js/ds.js$domain=~epinv.com
@@ -6747,6 +6752,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |http://www.jjyy4.com/Runtime/js/index$script
 |http://www.jjyy4.com/Tpl/xunbo/$script
 |http://www.jkpan.com/open.js$script
+|http://www.jmydm.com/jspage/ftt.js
 |http://www.jnjplm.com/IAA/201$script
 |http://www.jpseek.com/pr/click2.jpg$image
 |http://www.jpunion.com^$domain=jpfans.com|jpseek.com
@@ -6893,6 +6899,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |http://www.paoshuba.cc/yq/script/common.js$s@function fudong()*function pagebotbar()@function xxx()@
 |http://www.pc0359.cn/data/xzb_haha.js?
 |http://www.pc0359.cn/js/un.js$script
+|http://www.pc0359.cn/style/js/main.js$s@function main(code)@function xxx(code)@
 |http://www.pc0359.cn/style/js/rjshow.js
 |http://www.pc0359.cn/style/js/un.js
 |http://www.pcauto.com.cn/forum/1508/intf7631.js$script
@@ -9063,6 +9070,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||lz13.cn/THEMES/shouji/TEMPLATE/js/ms.js
 ||lzmm8.com
 ||lzwla.top
+||m.80s.tw$s@<script src="https://jsjs.nthyn.com/vs.php?id=*</script>@@
 ||m.80s.tw$s@function(){var d=@{@
 ||m.88dushu.com/mobile/css/my.min.js$s@function tongji()*function baba_wenzi()@function xxx_wenzi()@
 ||m.baidu.com/cpro.php$third-party
@@ -9361,6 +9369,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||prscripts.com/pub
 ||ps.haohaowan8.com
 ||pstatp.com/site/reads-sdk/$script
+||pstatp.com/toutiao/*.css$s@_ad{display:block!important}@_ad{display:none!important}@
+||pstatp.com/toutiao/picc_mig/dist/img.min.js?ver=$s@display: block@display: none@
 ||pstatp.com/toutiao/resource/ntoutiao_web/page/*.css|$s@.item{position:relative;display:block!important}@.item{position:relative;}@
 ||ptfish.com/08html/ggf/cptdgg.html$document
 ||pub.funshion.com
