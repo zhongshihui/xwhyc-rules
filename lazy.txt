@@ -1,4 +1,4 @@
-!  -----更新时间:  2017-12-16 22:15:08   by:xwhyc-----
+!  -----更新时间:  2017-12-18 22:50:18   by:xwhyc-----
 00kxs.com##.gg
 00sy.com##div.dahengfu,div.header,div.ad360,p[class="tl pd8 pd10"] + ul
 00sy.net##.dahengfu,.ad360,[style*="height:250px;"]
@@ -831,6 +831,7 @@ bbs.yawin.cn##div.ad,a[href^="http://bbs.yawin.cn/ad/"]
 bbs.ydss.cn##div#sitefocus.focus
 bbs.zhongsou.com##div.lt_gg960,div.gg1p6p6,div.marketingad01,div.lt_ggao_wei
 bbs.zol.com.cn##div#bbsAd
+bbs99.club##[class="wp a2_h"],.a_2mu,.ad,.a_pb
 bbsyl.cn###ggwehaoyi,table[style="width:100%;height:10%;"],[width="980"][height="90"],[src^="/ads/"]
 bbx163.com,bbx169.com##.ad1,.ad2,.a_t,.a_pb,.fwinmask
 bcc.com.tw##.scupioadslot,[class="ls4 block w1"] > .im1,[id^="div-gpt-ad-"]
@@ -1526,6 +1527,7 @@ ifanr.com##div.ifanr-text-content,div.banner_post_bottom,.c-jiong__image
 ifeng.com##[class^="adList"],div[class^="ad200"],div[id^="padhide_"],div[id^="couplet3_"],div.ad980,DIV.ad950,div.ad300,div.topAd,div.adArea,div#smExtObj,DIV.block_ad,DIV.pic1000,DIV.recommend > DIV.picNews,DIV.eduList.cGray.lh22,DIV[class^="ad1000"],div[id^="ArpAdPro_"],DIV[id^="index_top_banner_newbanner_ad_"],div.ad300x250,DIV.games_right_side,div.col_ad,DIV.adbox,DIV.ad.bd.ss_none,UL.list022,div.an,div.ad90,div.ad600,div#ifengAehovering_small,div.ad.mt20,div.ad.mt32,div.gg298,div.col_w1000.mt38,DIV[id^="_AdSame_DIV"],div.leftpopad,img[src^="http://y1.ifengimg.com/mappa/201"],div[class^="FNewRAvt"],div.FNewLAvt,div[class^="Col"][class$="Avt"],div[class^="ad0"],div.box_08.mt08,div.adbest,div.trade,.Avt01,div.Avt02,div.js_lh_ad,div.col_pc.IphoneNone,div[class^="ad_"],div[class^="adv"],div.ad2,span#StreamMediaWrap,div.vAdImg,div.v_ad_btm,div.acAdLis,div.iggLine,div.v-adbox,.adarea2,.flashAd,#tcldivtf1_1,#tcldivtf1_2,.right_gg,.gg,[id^="ad"],#video_p,.double_l,.double_r,.ad.mt15,[id^="div-gpt-ad-"],.ad-position,.ad1,.ad8,.newAdImg,#questionDialogBox,[id^="mobile_gg"],[class^="acAd"],[id^="cl3"].threepics,.mr_top_box,[id^="bigContent"],.yc_con_r,iframe[src^="http://p0.ifengimg.com/a/20"],iframe[src^="http://y1.ifengimg.com/a/20"],#swiper-container_bottom,.jctj,#iis_yw0,.yy_right_bottom,.yiyuan,[class^="cont_bottom_Yy"],.gg4,.advmark,.bomAd,.bomBox,.embedHzh,.videoPausePosition
 ifeng.com##[id^="cl1"],[class^="gg_"]
 ifkjx.com###91banner
+ig32.com##.static-a2d,#big2Ad,.innerAd
 iguang.tw##.mall[shop],#googleAD1
 ihot.news##.adsbygoogle,.ui_adblock,[id^="win_like"],.adunit
 ii-i.org##.KusCuPF9l9Id,.KusCuPF9l9Id-bg,.adsbygoogle,[class^="asb asb-post asb-post-0"]
@@ -5941,6 +5943,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |http://thecdn.04stream.com/ad11new.php?r=
 |http://thepiratebay.se/static/
 |http://thi##.a_cn,.a_pb,.a_fl,[height="60"],[height="250"],[height="400"],[width="960"],.portal_block_summary,.it618_firstad_flex,[style="padding- bottom:5px;width:960px;height:60px;"],[src^="http://s1.thzok.com/"],[src^="http://s2.thzok.com/"],[style="margin-top:5px"],[src*=".sinaimg.cn/large/"],[style="padding- bottom:5px;width:960px;height:120px;"],.money_336
+|http://thz##.a_cn,.a_pb,.a_fl,[height="60"],[height="250"],[height="400"],[width="960"],.portal_block_summary,.it618_firstad_flex,[style="padding- bottom:5px;width:960px;height:60px;"],[src^="http://s1.thzok.com/"],[src^="http://s2.thzok.com/"],[style="margin-top:5px"],[src*=".sinaimg.cn/large/"],[style="padding- bottom:5px;width:960px;height:120px;"],.money_336
 |http://tieba.baidu.com/$s@<script>    _.Module.use('adsense/widget/*</script>@@
 |http://tieba.baidu.com/$s@<script>    _.Module.use('padsense/widget/*</script>@@
 |http://tieba.baidu.com/$s@_.Module.use('adsense-base/widget/*}]);@@
@@ -6547,6 +6550,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |http://www.dilidili.tv/js/main_$s@function WRITE_@function xxx@
 |http://www.dilidili.wang/$s@<article class="popUp" style=*</article>@
 |http://www.dilidili.wang/$s@<script type="text/javascript">WRITE_xinxi_ad*</script>@@
+|http://www.dlkoo.com/down/copy1213.js?v=
 |http://www.dm456.com/$s@height:90px;@height:0px;@
 |http://www.dm456.com/m/index.js$script
 |http://www.dm530.net/play/ckplayer.php$s@t:'15',*loaded:'loadedHandler'@t:'0', l:'',e:'0',p:'1',l:'',loaded:'loadedHandler'@
@@ -8367,7 +8371,9 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dlads.cn
 ||dlamlab.com$third-party
 ||dleke.com
+||dlkoo.com/down/$s@setTimeout(testad,*</script>@</script>@
 ||dlkoo.com/down/copy4.js?v=
+||dlkoo.com/down/downfile.asp$s@|1000@|0@
 ||dlkoo.com/down/js/index_top
 ||dlrijiaele.com
 ||dm.xjfat1.com
