@@ -1,4 +1,4 @@
-!  -----更新时间:  2017-12-27 22:07:25   by:xwhyc-----
+!  -----更新时间:  2017-12-29 22:30:04   by:xwhyc-----
 00kxs.com##.gg
 00sy.com##div.dahengfu,div.header,div.ad360,p[class="tl pd8 pd10"] + ul
 00sy.net##.dahengfu,.ad360,[style*="height:250px;"]
@@ -146,6 +146,7 @@
 3gsc.com.cn##.ad,.advbox,.banner,#right_ad
 3lc.com##.sort_list dl[class="clearfix"]
 3sjt.com##div.a_mu,div.a_pb,div.wp.a_h,div.a_pr,div.a_fl.a_cb,div.a_fr.a_cb,div[class="portal_block_summary"]
+3xgd.com###video_left_adv
 400gb.com,pipipan.com,ctfile.com,bego.cc##a[id^="__lgUnion_a__"],div#advLeft,div#advRight,div[id^="cproIframe"][id$="holder"],DIV[id^="BAIDU_DUP_wrapper_"],DIV.viewfile_content_main_r,DIV.downpage_r,DIV.widget-main.ad_area,.adsbygoogle
 40407.com##div#tcdgg,div.top_banner,.bg_l,.bg_r,div.gg,div[class$="_gg"],.tui
 4399.cn##div.cn-app_guide
@@ -222,6 +223,7 @@
 61.iqiyi.com###J_ad_patch,.ad_box,[id^="J_ads"]
 610uu.com##img[width="615"][height="65"],div[class="maxBox ui-sponsor"]
 612459.com##[class^="ad"]
+63007.com##.zhfhb
 630book.com##.top-read-ad,.middlead,[height="90"]
 630book.la##.top-read-ad,.middlead,[height="90"]
 63ig.com##.DaKuang,[height="70"],[height="60"],[height="79"]
@@ -643,7 +645,7 @@
 ^http://js\d{3,4}\..*/[a-z]-\d+-\d+\.js$script
 ^http://m.omanhua.com/\d\.js
 ^http://m\.elanp\.com/img/\w\.js
-^http://m\.y3600\.com/17-\d{2}-\d{2}/\d{1,2}\.js$script
+^http://m\.y3600\.com/17\d{4}/\d{1,2}\.js$script
 ^http://s\.[^/]*/m-\d+-0(?:\b|-\d+)
 ^http://td\.xue163\.com/ajs/\w{1,3}\.js$script
 ^http://td\.xue1\.ca/\w\.js$script
@@ -654,9 +656,9 @@
 ^http://www\.iqiyi\.com/common/flashplayer/\d{8}\/\w{32}\.swf
 ^http://www\.qingkan520\.com/file/script/\d{1,2}\.js
 ^http://www\.rentiyishu\d{2}\.org/\w\.js$script
-^http://www\.y3600\.com/17-\d{2}-\d{2}/\d{1,2}\.js$script
+^http://www\.y3600\.com/17\d{4}/\d{1,2}\.js$script
 ^http://www\.yaerwen\.com/5200js/[^./]*\.js
-^http://y3600\.com/17-\d{2}-\d{2}/\d{1,2}\.js$script
+^http://y3600\.com/17\d{4}/\d{1,2}\.js$script
 a.xcar.com.cn##a.download-app.left,a.lazy.loaded
 a3v4.##[width="978px"],[href*="/?Intr="],[width="520"]
 a9vg.com##div.ad[id^="ad_"],div.sign
@@ -1770,6 +1772,7 @@ m.douguo.com##div.footer,div#top.top
 m.gongchang.com###app-download-link,div.advise-pic
 m.hao123.com##a.hdbanner,.pop-news,[id^="colorBlock"].color-block
 m.hc360.com##div#globalCgtTop
+m.ifeng.com##.top_carousel
 m.iqiyi.com##div#shortcut,div.banner_inner.bd-large.aaaa,div.appBar
 m.ku6.com##div#tcly
 m.laonanren.com##.newsList2
@@ -2094,6 +2097,7 @@ rednet.cn##div#topbanner,object#FlashId_ad1
 redocn.com##DIV#all_adv_2_3,DIV#BAIDU_DUP_wrapper_307960_0,DIV[id^="index_adv_"],DIV[id$="_adv_1_2"],DIV.ad_footerbanner
 redtube-com.info##.ima,.rmedia,.sppc
 ref.so##div#tg2_main
+rekanw.com##.iHead960x90
 remenxs.com##div[class^="yd_ad"],div[class^="ml_ad"],div.sk1,div[class^="xsad_"]
 renren.com##.wp-rrzm-popup
 renrencd.com##div.duilian,div[style^="width:960px;height:90px;"]
@@ -3223,11 +3227,12 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |http://*.cnnetallyads.
 |http://*.co/ads/
 |http://*.com/?aff=
-|http://*.com/?q=$domain=torrentkitty.la|diggbt.net|btkitty.biz|btkitty.uno|cishuge.com
+|http://*.com/?q=$domain=torrentkitty.la|diggbts.com|btkitty.biz|btkitty.uno|cishuge.com
 |http://*.com/?q=*|*$third-party
 |http://*.com/?ss=*_*_
 |http://*.com/?uid=*|*|*
 |http://*.com/JS/adshow
+|http://*.com/Runtime/js/$script
 |http://*.com/Runtime/js/psCreat.js$script
 |http://*.com/aajjss/$script
 |http://*.com/ad-
@@ -3291,6 +3296,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |http://*.com/js/?js=js
 |http://*.com/js/A.js$script
 |http://*.com/js/AA.js$script
+|http://*.com/js/_banner.js
 |http://*.com/js/ad.$script
 |http://*.com/js/ad/$script
 |http://*.com/js/alls_$script
@@ -3633,6 +3639,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |http://*/doublePop.js
 |http://*/duilian.js|$script
 |http://*/duilian_
+|http://*/dxbfwr.js|
 |http://*/dzx/forum$image
 |http://*/ead/union/
 |http://*/enkj.gif$image
@@ -3946,6 +3953,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |http://*/widget.jsp?bId$document
 |http://*/wizard.js^$script
 |http://*/wp-content/themes/iMovies/js/$script
+|http://*/wquyuxux.js|
 |http://*/www/delivery/
 |http://*/wzduilian/$image
 |http://*/wzygg/$image
@@ -4502,6 +4510,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |http://cn-style.gcimg.net/v6/gold/images/*.gif
 |http://cn.cbsimg.net/cnwk.1d/Aud/javascript/apex.js
 |http://cnbtkitty.$s@<div class="footer" >*src="http://www.baidu.com/js/opensug.js"></script>@@
+|http://cnbtkitty.[src^="http://go.gotourl."]
 |http://cnnews.chosun.com/common/inc/top_3banner.asp
 |http://code.*.com/cpro/ui/c.js|
 |http://code.hmp33.com/
@@ -4568,22 +4577,21 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |http://de.as.*/ikandelivery/vast/
 |http://delivery.playallvideos.com
 |http://dh.yyhao.com/qq/1377sishen
-|http://diggbt.##[src^="http://go.gotourl."]
-|http://diggbt.$s@<div class="footer" >*src="http://www.baidu.com/js/opensug.js"></script>@@
-|http://diggbt.$s@<script charset="utf-8" src="http://t.ju33.com:*</script>@@
-|http://diggbt.$s@<script data-union-ad data-priority=1 data-position=fixed>*</script>@@
-|http://diggbt.$s@<script language="javascript" type="text/javascript">document.write(decodeURIComponent("%3C"+"scr"+"ipt"*;</script>@@
-|http://diggbt.$s@<script language="javascript" type="text/javascript">document.write(decodeURIComponent("%3Cscr"+"ipt%20"*;</script>@@
-|http://diggbt.$s@<script src="http://j.klsdmr.com*</script>@@
-|http://diggbt.$s@<script src=?http://j.qiqivv.com*</script>@@
-|http://diggbt.$s@<script src=?http://js3555.*</script>@@
-|http://diggbt.$s@<script src=?http://js883.*</script>@@
-|http://diggbt.$s@<script type="text/javascript" src="http://js.*</script>@@
-|http://diggbt.$s@<script>var rkey=Math.floor*</script>@@
-|http://diggbt.$s@function(){var a=new XMLHttpRequest()*</script>@</script>@
-|http://diggbt.$s@var d=/(UCBrowser|QQBrowser)/i.test@@
-|http://diggbt.$s@var rkey = Math.floor(Math.random()*</script>@</script>@
-|http://diggbt.pw/diggbt-static?v=
+|http://diggbt##[src^="http://go.gotourl."]
+|http://diggbt$s@<div class="footer" >*src="http://www.baidu.com/js/opensug.js"></script>@@
+|http://diggbt$s@<script charset="utf-8" src="http://t.ju33.com:*</script>@@
+|http://diggbt$s@<script data-union-ad data-priority=1 data-position=fixed>*</script>@@
+|http://diggbt$s@<script language="javascript" type="text/javascript">document.write(decodeURIComponent("%3C"+"scr"+"ipt"*;</script>@@
+|http://diggbt$s@<script language="javascript" type="text/javascript">document.write(decodeURIComponent("%3Cscr"+"ipt%20"*;</script>@@
+|http://diggbt$s@<script src="http://j.klsdmr.com*</script>@@
+|http://diggbt$s@<script src=?http://j.qiqivv.com*</script>@@
+|http://diggbt$s@<script src=?http://js3555.*</script>@@
+|http://diggbt$s@<script src=?http://js883.*</script>@@
+|http://diggbt$s@<script type="text/javascript" src="http://js.*</script>@@
+|http://diggbt$s@<script>var rkey=Math.floor*</script>@@
+|http://diggbt$s@function(){var a=new XMLHttpRequest()*</script>@</script>@
+|http://diggbt$s@var d=/(UCBrowser|QQBrowser)/i.test@@
+|http://diggbt$s@var rkey = Math.floor(Math.random()*</script>@</script>@
 |http://dio66.net/$s@function openpopup@@
 |http://dio88.net/$s@window.open("http://@@
 |http://dioguitar23.co/images/$domain=sexinsex.net
@@ -5687,6 +5695,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |http://stacdn201.ganjistatic1.com/src/image/v5/homepage/1200-90.png
 |http://stat.uuu9
 |http://stat.xgo.com.cn/adrs/ol.js
+|http://static-alias-1.360buyimg.com/*/adcookie.min.js
 |http://static-alias-1.360buyimg.com/jzt/tpl/sspPic.html?ad_ids=
 |http://static-cn.plista.com
 |http://static-hw.xvideos.com/v-80255fc1f09/v3/js/skins/min/default.js
@@ -7584,6 +7593,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||7m.cn/b1/$script
 ||7pud.com
 ||7xtiyu.com/js/tv/*.php?id=$s@if(djs.innerHTML == 0)@if(djs.innerHTML != 0)@
+||80s.tw/80sad/
 ||80s.tw/css/cpshow.js
 ||8368661.com
 ||84232.com
@@ -9442,6 +9452,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||rm.sina.com.cn/$script,document,domain=~sea.sina.com.cn
 ||rrsubway.com
 ||rsccs.com
+||rst2.y3600.cn
 ||runiman.com
 ||runtujs.com
 ||rwjfs.com$domain=~2mm.tv|~2mmei.com
@@ -10320,4 +10331,3 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zzsno1.com
 ||zztlgm.com
 ||zzzyk.com/js/$script
-|http://*/qkosfh.js|
