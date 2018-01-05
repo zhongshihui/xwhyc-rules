@@ -1,4 +1,4 @@
-!  -----更新时间:  2018-01-01 17:13:39   by:xwhyc-----
+!  -----更新时间:  2018-01-04 22:07:59   by:xwhyc-----
 00kxs.com##.gg
 00sy.com##div.dahengfu,div.header,div.ad360,p[class="tl pd8 pd10"] + ul
 00sy.net##.dahengfu,.ad360,[style*="height:250px;"]
@@ -3066,6 +3066,7 @@ zb190.com##A[href^="http://www.hg90567.com/"]
 zbjxs.com##.ad
 zcool.com.cn##.details-advertisement,.advtop,.zcool_Advertising,[id^="ac_im86_"],.pop-appdown,iframe[src*="/ad/zcad.html#id="],table.adTable
 zdface.com##DIV#msg_win,DIV#laiyuan_div + SPAN,DIV[id^="div-gpt-ad-"],div.newsign,div[id^="ads_"],[class^="ad-"]
+zdfans.com##[href*="register?"]
 zdfans.com##a[href^="http://js.50bang.org/?formType="],A[href="http://www.kiees.com/"],div.db_post,.adsbygoogle,[id^="tanxmobile-outer-conmm"],[href="http://www.focusky.com.cn/help-245.html"],iframe[width="300"][height="250"]
 zeekmagazine.com##.adsbygoogle,.td-adspot-title,.td-header-sp-recs
 zerodm.com,zerodm.net##div.syad.border,div.top960
@@ -3907,6 +3908,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |http://*/skin/default/ad/
 |http://*/slgg/
 |http://*/sluke/ml
+|http://*/smqusqo.js|
 |http://*/soft_mid_
 |http://*/soqidian/
 |http://*/ssss.asp?id=$third-party
@@ -4960,6 +4962,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |http://j.ssajax.cn/js/info/cms-global.v.
 |http://j.wit.
 |http://j1.dfcfw.com/charts/fund_content_reg_ads.swf?v=
+|http://j17.shangc.net
 |http://j5.dfcfw.com/js/news/emfloatmedia_
 |http://ja.gamersky.com/
 |http://jh.dianping.com/wedding/pro/pcprompage?type=ExternalSiteForPC$third-party
@@ -9227,6 +9230,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||officeme.cn
 ||ojj258.com
 ||okm918.com
+||okmgy.cn
 ||okokw.com
 ||olcdn.com$script
 ||omanhua.com/scripts/sui$script
