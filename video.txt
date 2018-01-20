@@ -1,4 +1,4 @@
-!  -----更新时间:  2018-01-17 22:47:55   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2018-01-19 22:49:34   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224，534897434,438394572--------------
 
 
@@ -8,30 +8,36 @@
 678pan.cc###down_box{display:block!important;}.span9,[src*=".sinaimg.cn/large/"]
 @@|http://sports.eastday.com/jscss/v4/js/new_deatil_ad.js
 ^http://[^/]*/[a-z]{6,}\.js$s@try{!function(t){window._SF_&&window._SF_._global_&&window._SF_._global_._ssp&&(t=window._SF_._global_._ssp);try{t.loadTimer='-1';var e=window.require;e&&e@{@
+azhibo.com##.ad-couplet-common
 baihei.net##.a_h
 baixing.com##[data-atype="b-x-a-d-a"]
 bx0635.com###down_box{display:block!important;}
 chexun.com##.ad1100,.ad794,.ad254
 cm868.com###diy1,#diy3
 cnbeta.com##.cbv810
+codejie.net##[src^="/wp-content/uploads/gg/"],.gg_banner
 eastday.com##[class*="_adv_"],[class^="ad-r"],.ad-l-three,.iframeDA,.ad-top,.ad-hf-l,.ad-hf-r
 haoweichi.com##.adsbygoogle,.ad2,.ad3
+hupu.com##.show-adpv
 ifeng.com##.h_top_box,.foot_top_box
 qzone.qq.com##.f-vqz-ad
 storebt.cc##[href^="http://go.gotourl.xyz/goto"]
 talkop.com###fwin_popad_7ree
 weather.com.cn###di_tan,#zu_dui,#adtop_r,[id^="adpos_"],.ggt
 ydss.cn###jd_ad,[class="bm bml pbn"] table
+zimuku.cn##[style*="width:100%; height:80px;"]
 |http://*.cc/ad.js|
 |http://*/adm.js?v=
 |http://bdxs.
 |http://ggg.
 |http://mc.weather.com.cn
+|http://ssgg.chazidian.com$script
 |http://video.eastday.com/*/js/*gethot.js$s@000)@)@
 |http://wap.5di.tv/js/moge/foot.js
 |http://www.678pan.*/file-$s@href=\"down2-@href=\"down-@
 |http://www.678pan.*/file-$s@var secs = 1?;@var secs = 0;@
 |http://www.the6688.com/js/xz.js
+|http://www.zdfans.com/wp-content/themes/D7/img/
 ||210189.com
 ||36900yh.com
 ||52088.cc/js/zhoujiatian/$script
@@ -45,6 +51,8 @@ ydss.cn###jd_ad,[class="bm bml pbn"] table
 ||rongchengxxw.com
 ||ssl.77kpw.cc/weparse/index.php?id=$s@, 1000);@, 0);@
 ||u9yy.com/js/js/$script
+||www.wanzituandui.com/img/5085
+||zimuku.cn/images/v2/js/bn.js
 
 
 !-----------------------
