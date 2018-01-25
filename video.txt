@@ -1,4 +1,4 @@
-!  -----更新时间:  2018-01-22 22:31:31   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2018-01-24 22:43:01   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224，534897434,438394572--------------
 
 
@@ -17,12 +17,15 @@ baixing.com##[data-atype="b-x-a-d-a"]
 bx0635.com###down_box{display:block!important;}
 caibaojian.com##.single_top
 cailianpress.com##.slick-list,.wrap
+cctime.com###nav_banner,[id^="ad_"],[id$="_ad"]
+chcj.com##.a_cb,#diy1,.a_pt,.a_pb,#comiis_sfcs00,#comiis_sfcs08,[id^="comiis_ad"]
 chexun.com##.ad1100,.ad794,.ad254
 chinabidding.com.cn##.train,.advert,.layer
 cm868.com###diy1,#diy3
 cnbeta.com##.cbv810
 codejie.net##[src^="/wp-content/uploads/gg/"],.gg_banner
 ctanet.cn##[width="160"],[height="80"],[height="50"]
+dvwu.com##.index_alert_gg
 eastday.com##[class*="_adv_"],[class^="ad-r"],.ad-l-three,.iframeDA,.ad-top,.ad-hf-l,.ad-hf-r
 f.uliba.net##[href="http://www.linuxprobe.com/"]
 fengup.com##.index_middle,#zfbcode
@@ -32,6 +35,7 @@ ifeng.com##.h_top_box,.foot_top_box
 qzone.qq.com##.f-vqz-ad
 speedtest.cn##.aP-box,#add_r1,#add_r2
 storebt.cc##[href^="http://go.gotourl.xyz/goto"]
+subhd.com##[src^="/images/ad/"]
 talkop.com###fwin_popad_7ree
 weather.com.cn###di_tan,#zu_dui,#adtop_r,[id^="adpos_"],.ggt
 wm927.com##[src^="http://www.wm927.com/static/images/list_ad"],.ad-banner,[src="http://www.wm927.com/static/images/gp_ad1.jpg"]
@@ -65,6 +69,7 @@ zimuku.cn##[style*="width:100%; height:80px;"]
 |http://www.678pan.*/file-$s@var secs = 1?;@var secs = 0;@
 |http://www.the6688.com/js/xz.js
 |http://www.zdfans.com/wp-content/themes/D7/img/
+||1515788.net
 ||210189.com
 ||36900yh.com
 ||52088.cc/js/zhoujiatian/$script
@@ -78,20 +83,23 @@ zimuku.cn##[style*="width:100%; height:80px;"]
 ||cdn.cdntxt.com/m1/2.js
 ||cdn.tinglian.com/bd.js
 ||ctanet.cn/aqq/JS/
+||dlkoo.com/down/Copydown0123.js?AID=
+||dlkoo.com/down/copy0123.js?v=
 ||fzdfwy.com
 ||haoweichi.com$s@$('#css').remove();*alert(@@
 ||hgo7r.cn
 ||jinse.com/promotion/
+||jyh007.com/public/js/bdssp.js
 ||kkds.xntk.net
 ||qaqact.cn
 ||rongchengxxw.com
 ||ssl.77kpw.cc/weparse/index.php?id=$s@, 1000);@, 0);@
+||symac.cn$third-party
 ||sysad.cn
 ||u9yy.com/js/js/$script
 ||wps.cn/wpsv6internet/infos.ads?
 ||www.wanzituandui.com/img/5085
 ||zimuku.cn/images/v2/js/bn.js
-
 !-----------------------
 
 
