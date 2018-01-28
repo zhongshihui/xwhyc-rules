@@ -3,7 +3,13 @@
 
 
 !-------------------------------------------
-
+|http://*/js_ads.
+dataguru.cn##.dg_ad
+dsqnw.com##.pads,.tmall_1111_left
+|http://www.zdfans.com/wp-content/themes/D7/img/
+10jqka.com.cn##.adplace
+xinhuanet.com##[src^="../../ad/"]
+brtn.cn##[adview-id]
 
 !-----------------------
 
