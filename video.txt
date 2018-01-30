@@ -1,16 +1,21 @@
-!  -----更新时间:  2018-01-27 16:39:13   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2018-01-29 22:40:49   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224，534897434,438394572--------------
 
 
 !-------------------------------------------
-|http://*/js_ads.
-dataguru.cn##.dg_ad
-dsqnw.com##.pads,.tmall_1111_left
-|http://www.zdfans.com/wp-content/themes/D7/img/
 10jqka.com.cn##.adplace
-xinhuanet.com##[src^="../../ad/"]
 brtn.cn##[adview-id]
-
+dataguru.cn##.dg_ad
+downkr.com###download-gaosu-list,[id^="download-panel-"]
+dsqnw.com##.pads,.tmall_1111_left
+dz19.net##.a_mu,.a_h,.a_f
+xinhuanet.com##[src^="../../ad/"]
+|http://*/js_ads.
+|http://www.zdfans.com/wp-content/themes/D7/img/
+||0571hy.com
+||biqqc.com/ps/data.js
+||biqqc.com/templates/frontend/frontend-default/js/scoll_bg.js
+||biqqc.com/video/$s@l:'http://*',*t:'5',@@
 !-----------------------
 
 
