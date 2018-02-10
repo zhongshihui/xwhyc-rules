@@ -15,10 +15,11 @@ down12.com##.fst,[class^="adr-ist-"],.adr-rt
 downkr.com###download-gaosu-list,[id^="download-panel-"]
 dsqnw.com##.pads,.tmall_1111_left
 dz19.net##.a_mu,.a_h,.a_f
-feng.com##.inner,[height="80"]
+feng.com##[height="80"]
 ftchinese.com##.ad-hidden,.mpu-container-instory,[class^="banner-"]
 hupu.com##[height="60"]
 ifeng.com##.ad640x90
+pniao.com##.AD_kk
 qihoo.com##[id^="detail_aside_gg"]
 sv.baidu.com##[data-type="ec-feed"],[data-pagepd^="web_tuiguang"]
 xinhuanet.com##[src^="../../ad/"]
@@ -30,6 +31,7 @@ xiwuji.com##.nav_ding_ad
 |http://acs.youku.com/h5/mtop.youku.play.ups.appinfo.get/$s@{"P":1,"VAL":@{"P":0,"VAL":@
 |http://imge.cfcglx.com/qqshow/
 |http://js*.abolezi.com/
+|http://m.6080.tv/public/js/m/37.js
 |http://s.dpcq1.net/public/ptcms/s_wap_novelsearch_chapter_read.js
 |http://ups.youku.com/ups/get.json?vid=$s@"RS":"http*"@"RS":"http://policy.com"@
 |http://ups.youku.com/ups/get.json?vid=$s@{"P":1,"VAL":@{"P":0,"VAL":@
