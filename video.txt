@@ -1,4 +1,4 @@
-!  -----更新时间:  2018-02-07 22:59:49   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2018-02-12 23:16:11   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224，534897434,438394572--------------
 
 
@@ -11,11 +11,13 @@
 @@||zbj.com
 brtn.cn##[adview-id]
 dataguru.cn##.dg_ad
+doutula.com##.adsbygoogle
 down12.com##.fst,[class^="adr-ist-"],.adr-rt
 downkr.com###download-gaosu-list,[id^="download-panel-"]
 dsqnw.com##.pads,.tmall_1111_left
 dz19.net##.a_mu,.a_h,.a_f
 feng.com##[height="80"]
+feng.com##[href^="https://yes1.feng.com/click.php?n="]
 ftchinese.com##.ad-hidden,.mpu-container-instory,[class^="banner-"]
 hupu.com##[height="60"]
 ifeng.com##.ad640x90
@@ -23,14 +25,18 @@ pniao.com##.AD_kk
 qihoo.com##[id^="detail_aside_gg"]
 sv.baidu.com##[data-type="ec-feed"],[data-pagepd^="web_tuiguang"]
 xinhuanet.com##[src^="../../ad/"]
+xitongcheng.com##[class$="_adv"]
 xiwuji.com##.nav_ding_ad
 |http://*.com/ps/data.js?t=
+|http://*.me/js/AD.js?v=
 |http://*/js_ads.
 |http://*/templates/frontend/frontend-default/img/KF-ZL.jpg
+|http://*_adfloat.js?v=$script
 |http://acs.youku.com/h5/mtop.youku.play.ups.appinfo.get/$f@s@%2C%5C%22p%5C%22%3A1%2C%5C%22@%2C%5C%22p%5C%22%3A0%2C%5C%22@
 |http://acs.youku.com/h5/mtop.youku.play.ups.appinfo.get/$s@{"P":1,"VAL":@{"P":0,"VAL":@
 |http://imge.cfcglx.com/qqshow/
 |http://js*.abolezi.com/
+|http://js.zyrfanli.com/
 |http://m.6080.tv/public/js/m/37.js
 |http://s.dpcq1.net/public/ptcms/s_wap_novelsearch_chapter_read.js
 |http://ups.youku.com/ups/get.json?vid=$s@"RS":"http*"@"RS":"http://policy.com"@
@@ -50,6 +56,8 @@ xiwuji.com##.nav_ding_ad
 ||biqqc.com/video/$s@l:'http://*',*t:'5',@@
 ||cchfjz.com
 ||ddooo.com/public/uaredirect.js$s@function do_main(parm)@@
+||dilidili.wang/images/shouye/h5game_a.js
+||dilidili.wang/tempBackup/js/main_video.js
 ||diogv.com
 ||dlkoo.com/down/copy$s@__csppp.open(paypopupURL@(paypopupURL@
 ||down12.com/common17/js/bdvert.js
@@ -64,6 +72,7 @@ xiwuji.com##.nav_ding_ad
 ||shandongkuntuo.com
 ||static.ftchinese.com/n/a-domore.js
 ||yljiaoluo.com
+
 !-----------------------
 
 
