@@ -1,34 +1,55 @@
-!  -----更新时间:  2018-02-12 23:16:11   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2018-02-22 23:09:38   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224，534897434,438394572--------------
 
 
 !-------------------------------------------
+05sun.com##.xzq,[src="/images/ydxz.gif"]
 10jqka.com.cn##.adplace
+188soft.com##.detail-advertise,[href^="http://dl.zasuv.com/download/"]
+30k.me###diy1
 46pj.com##.DaKuang,[height="79"]
 9669.cn##.gg640,.youce_ad,.flash_ad300
 @@|http://www.bkill.com/js/dl20$script
 @@||cdndm5.com/*/dm5/images/banners/$image
+@@||exosrv.com/ads$domain=avgle.com
 @@||zbj.com
+aiaibt.com##[id$="_vvva"],[id$="_vvvaxx"],[href^="http://gotoweburl."],[width="960"],[id="adfdiv"]
 brtn.cn##[adview-id]
+btzx2017.com##.ad,.header_ad_place
+csdn.net##.yd_a_d_feed_cla,[data-mod^="ad_popu_"]
 dataguru.cn##.dg_ad
 doutula.com##.adsbygoogle
 down12.com##.fst,[class^="adr-ist-"],.adr-rt
 downkr.com###download-gaosu-list,[id^="download-panel-"]
+downza.cn##[href^="http://www.downza.cn/download?file="][href$="&isxzq=1&referer="]
 dsqnw.com##.pads,.tmall_1111_left
+duote.com##.dl_banner,.iframeAd
+dvbcn.com##.ad
 dz19.net##.a_mu,.a_h,.a_f
+eastmoney.com##.jjph_important
 feng.com##[height="80"]
 feng.com##[href^="https://yes1.feng.com/click.php?n="]
+fqlook.com##.mmver.w-1200,.head_ad,#leftfloatad1,.definit
 ftchinese.com##.ad-hidden,.mpu-container-instory,[class^="banner-"]
+g-years.com##.textMes,[height="70"],[id^="div-gpt-ad-"],[height="60"]
+greenxiazai.com##[class^="yinsu_"]
 hupu.com##[height="60"]
 ifeng.com##.ad640x90
+landiannews.com##.asb
+landiannews.com##[width="336"]
+onlinedown.net##.gg300
+orsoon.com##[href^="http://dl.qpzqxz.com/download/"]
 pniao.com##.AD_kk
 qihoo.com##[id^="detail_aside_gg"]
 sv.baidu.com##[data-type="ec-feed"],[data-pagepd^="web_tuiguang"]
+wghai.net##.a_xiu_h,#sc-superman-ad,.a_xiu_t,.a_xiu_pt,.a_xiu_pb,.a_xiu_pr
 xinhuanet.com##[src^="../../ad/"]
 xitongcheng.com##[class$="_adv"]
 xiwuji.com##.nav_ding_ad
+zhuihd.com##[class^="ad-"]
 |http://*.com/ps/data.js?t=
 |http://*.me/js/AD.js?v=
+|http://*.net/?u=*|*|*
 |http://*/js_ads.
 |http://*/templates/frontend/frontend-default/img/KF-ZL.jpg
 |http://*_adfloat.js?v=$script
@@ -39,12 +60,16 @@ xiwuji.com##.nav_ding_ad
 |http://js.zyrfanli.com/
 |http://m.6080.tv/public/js/m/37.js
 |http://s.dpcq1.net/public/ptcms/s_wap_novelsearch_chapter_read.js
+|http://static.tj.familydoctor.com.cn/c/a/000/ggw_
 |http://ups.youku.com/ups/get.json?vid=$s@"RS":"http*"@"RS":"http://policy.com"@
 |http://ups.youku.com/ups/get.json?vid=$s@{"P":1,"VAL":@{"P":0,"VAL":@
 |http://www.dianmi.net/tj/
+|http://www.rsdown.cn/static/new0613/down.js
 |http://www.zdfans.com/wp-content/themes/D7/img/
 ||0571hy.com
+||100ea.com
 ||24meinv.org/js/total.js
+||28487.net
 ||46pj.com/go.js
 ||46pj.com/nr.js
 ||77kp.com/jquery/banners-
@@ -68,11 +93,11 @@ xiwuji.com##.nav_ding_ad
 ||ibaiducdn.com/Public/Assets/js/hz_
 ||jsqsuperglobalcdn.com/js/400biz.js
 ||kumao2018.com/temp/Banner/
+||liliwoin.top
 ||miiuv.com
 ||shandongkuntuo.com
 ||static.ftchinese.com/n/a-domore.js
 ||yljiaoluo.com
-
 !-----------------------
 
 
