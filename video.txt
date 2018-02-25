@@ -1,4 +1,4 @@
-!  -----更新时间:  2018-02-22 23:09:38   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2018-02-24 22:42:18   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224，534897434,438394572--------------
 
 
@@ -9,11 +9,14 @@
 30k.me###diy1
 46pj.com##.DaKuang,[height="79"]
 9669.cn##.gg640,.youce_ad,.flash_ad300
+@@|http://ping.xlmc.sandai.net
 @@|http://www.bkill.com/js/dl20$script
 @@||cdndm5.com/*/dm5/images/banners/$image
 @@||exosrv.com/ads$domain=avgle.com
 @@||zbj.com
+acgsou.com##[href^="/qxads/ads"]
 aiaibt.com##[id$="_vvva"],[id$="_vvvaxx"],[href^="http://gotoweburl."],[width="960"],[id="adfdiv"]
+blog.sina.cn##.txt-tit[style^="padding:"]
 brtn.cn##[adview-id]
 btzx2017.com##.ad,.header_ad_place
 csdn.net##.yd_a_d_feed_cla,[data-mod^="ad_popu_"]
@@ -32,9 +35,11 @@ feng.com##[href^="https://yes1.feng.com/click.php?n="]
 fqlook.com##.mmver.w-1200,.head_ad,#leftfloatad1,.definit
 ftchinese.com##.ad-hidden,.mpu-container-instory,[class^="banner-"]
 g-years.com##.textMes,[height="70"],[id^="div-gpt-ad-"],[height="60"]
+greatwuyi.com##.ad_img,.main_9788
 greenxiazai.com##[class^="yinsu_"]
 hupu.com##[height="60"]
 ifeng.com##.ad640x90
+kcili.com###hm_cpm_show
 landiannews.com##.asb
 landiannews.com##[width="336"]
 onlinedown.net##.gg300
@@ -59,8 +64,11 @@ zhuihd.com##[class^="ad-"]
 |http://js*.abolezi.com/
 |http://js.zyrfanli.com/
 |http://m.6080.tv/public/js/m/37.js
+|http://pc.ctsywy.com/js/TP$script
+|http://pc.ctsywy.com/js/scold$script
 |http://s.dpcq1.net/public/ptcms/s_wap_novelsearch_chapter_read.js
 |http://static.tj.familydoctor.com.cn/c/a/000/ggw_
+|http://sy.*.com/363/1/1
 |http://ups.youku.com/ups/get.json?vid=$s@"RS":"http*"@"RS":"http://policy.com"@
 |http://ups.youku.com/ups/get.json?vid=$s@{"P":1,"VAL":@{"P":0,"VAL":@
 |http://www.dianmi.net/tj/
@@ -96,7 +104,11 @@ zhuihd.com##[class^="ad-"]
 ||liliwoin.top
 ||miiuv.com
 ||shandongkuntuo.com
+||shongcheng.com
+||static.cdn.dlfyb.com/js/public/pc/player.js$s@var ad_time = 5;@var ad_time = 0;@
 ||static.ftchinese.com/n/a-domore.js
+||wangdddy.com
+||y3600.com/18022
 ||yljiaoluo.com
 !-----------------------
 
