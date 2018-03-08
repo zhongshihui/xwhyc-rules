@@ -1,4 +1,4 @@
-!  -----更新时间:  2018-03-06 23:03:53   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2018-03-07 23:14:09   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224，534897434,438394572--------------
 
 
@@ -54,6 +54,7 @@ hepuwang.com##[height="70"]
 hinews.cn##[id^="hi_gg_"],.h80
 hupu.com##[height="60"]
 ifeng.com##.ad640x90
+ipcfun.com##.adsbygoogle,#sidebar_float,.d300,[style^="height:280px;width:336px;"]
 kcili.com###hm_cpm_show
 landiannews.com##.asb
 landiannews.com##[width="336"]
@@ -77,9 +78,12 @@ zhuihd.com##[class^="ad-"]
 |http://*.com/ps/data.js?t=
 |http://*.me/js/AD.js?v=
 |http://*.net/?u=*|*|*
+|http://*.tw/js/setIframeHeight.php?h=
+|http://*/Templet/js/allmenu_top_$script
 |http://*/cpm-$script
 |http://*/cpv-$script
 |http://*/img/pauseAds.png
+|http://*/js/js/fumeiti.js
 |http://*/js_ads.
 |http://*/templates/frontend/frontend-default/img/KF-ZL.jpg
 |http://*_adfloat.js?v=$script
@@ -110,6 +114,7 @@ zhuihd.com##[class^="ad-"]
 |http://www.dianmi.net/tj/
 |http://www.haoju*.com/js/play.js$s@var adsTime=??;@var adsTime=0;@
 |http://www.hinews.cn/out/*.js?rnd=$s@function ReadGuanggao*function toLoopAll()@function xxx()@
+|http://www.rmdown.com/link.php$s@var rmJson =*var poJson =@@
 |http://www.rsdown.cn/static/new0613/down.js
 |http://www.zdfans.com/wp-content/themes/D7/img/
 ||0571hy.com
@@ -121,6 +126,7 @@ zhuihd.com##[class^="ad-"]
 ||46pj.com/nr.js
 ||5151gj.com^
 ||77kp.com/jquery/banners-
+||7895983.cn^
 ||9669.cn/js/360_ads_
 ||9669.cn/js/jquery.flash.min.js
 ||9669.cn/js/jquery.play.min.js
@@ -146,6 +152,7 @@ zhuihd.com##[class^="ad-"]
 ||ibaiducdn.com/Public/Assets/js/hz_
 ||jsqsuperglobalcdn.com/js/400biz.js
 ||kcooy.com
+||ksksqa.cn^
 ||kumao2018.com/temp/Banner/
 ||liliwoin.top
 ||lzytt.com
@@ -157,6 +164,7 @@ zhuihd.com##[class^="ad-"]
 ||sqwscy.com
 ||static.cdn.dlfyb.com/js/public/pc/player.js$s@var ad_time = 5;@var ad_time = 0;@
 ||static.ftchinese.com/n/a-domore.js
+||subhd.com$s@var paypopupURL=*</script>@}</script>@
 ||symag.cn
 ||topapi.cp12.ott.cibntv.net/router/rest^
 ||topapi.cp12.wasu.tv/router/rest?v=
