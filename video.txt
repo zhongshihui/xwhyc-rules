@@ -1,4 +1,4 @@
-!  -----更新时间:  2018-03-07 23:14:09   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2018-03-09 23:02:39   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224，534897434,438394572--------------
 
 
@@ -30,6 +30,7 @@ brtn.cn##[adview-id]
 btzx2017.com##.ad,.header_ad_place
 csdn.net##.yd_a_d_feed_cla,[data-mod^="ad_popu_"]
 dataguru.cn##.dg_ad
+docin.com##[id^="view_adv"]
 doutula.com##.adsbygoogle
 down12.com##.fst,[class^="adr-ist-"],.adr-rt
 downkr.com###download-gaosu-list,[id^="download-panel-"]
@@ -107,7 +108,7 @@ zhuihd.com##[class^="ad-"]
 |http://s.dpcq1.net/public/ptcms/s_wap_novelsearch_chapter_read.js
 |http://static.tj.familydoctor.com.cn/c/a/000/ggw_
 |http://sy.*.com/363/1/1
-|http://topapi.*yunos.tv.advert.site.unified.get&
+|http://t7z.cupid.iqiyi.com/mixer?ap=cp&a=
 |http://ups.youku.com/ups/get.json?vid=$s@"RS":"http*"@"RS":"http://policy.com"@
 |http://ups.youku.com/ups/get.json?vid=$s@{"P":1,"VAL":@{"P":0,"VAL":@
 |http://web.door2new.net^
@@ -142,6 +143,7 @@ zhuihd.com##[class^="ad-"]
 ||dilidili.wang/images/shouye/h5game_a.js
 ||dilidili.wang/tempBackup/js/main_video.js
 ||diogv.com
+||dlkjgjmy.com^
 ||dlkoo.com/down/copy$s@__csppp.open(paypopupURL@(paypopupURL@
 ||down12.com/common17/js/bdvert.js
 ||downbank.cn/js/g.js
@@ -158,6 +160,7 @@ zhuihd.com##[class^="ad-"]
 ||lzytt.com
 ||media.ptmi.gitv.tv
 ||miiuv.com
+||olmvkq.cn^
 ||opqsr.com
 ||shandongkuntuo.com
 ||shongcheng.com
