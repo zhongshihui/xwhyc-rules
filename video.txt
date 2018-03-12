@@ -1,4 +1,4 @@
-!  -----更新时间:  2018-03-10 23:17:25   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2018-03-11 22:51:30   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224，534897434,438394572--------------
 
 
@@ -61,8 +61,9 @@ kcili.com###hm_cpm_show
 landiannews.com##.asb
 landiannews.com##[width="336"]
 nga.cn##[id^="postads"],.adshid,.adsh,.adsc
-ngacn.cc##[id^="postads"],.adshid,.adsh
+ngacn.cc##[id^="postads"],.adshid,.adsh,[id^="adsc"],.adsc
 onlinedown.net##.gg300
+op.gg##.vm-placement,[class^="ads"]
 orsoon.com##[href^="http://dl.qpzqxz.com/download/"]
 pniao.com##.AD_kk
 qianjia.com##.ad-section
@@ -76,6 +77,7 @@ xinhuanet.com##[src^="../../ad/"]
 xitongcheng.com##[class$="_adv"]
 xiwuji.com##.nav_ding_ad
 yaojingweiba.com##[style^="width:300px;height:250px;"],[src^="http://baiduyun.modelelement.com/afiles/"]
+yzz22.com##.kopl,.bottom-adv,#haoetv,.topli,[src^="http://cbu01.alicdn.com/img/ibank/"]
 zgpingshu.com##[height="300"],.a25055
 zhuihd.com##[class^="ad-"]
 |http://*.com/ps/data.js?t=
@@ -96,6 +98,7 @@ zhuihd.com##[class^="ad-"]
 |http://agn.aty.snmsohu.aisee.tv/m?prot=
 |http://baiduyun.modelelement.com/afiles/
 |http://cidian.wenku1.com/js/head.js
+|http://hb.vntsm.com/v3/live/ad-manager.min.js
 |http://img4.nga.cn/ngabbs/nga_classic/js_default.js$s@if(!ngaAds *//fe@})@
 |http://img4.nga.cn/proxy/cache_attach/ds_list.js
 |http://img4.ngacn.cc/ngabbs/nga_classic/js_default.js$s@if(!ngaAds *//fe@})@
@@ -117,6 +120,8 @@ zhuihd.com##[class^="ad-"]
 |http://www.dianmi.net/tj/
 |http://www.haoju*.com/js/play.js$s@var adsTime=??;@var adsTime=0;@
 |http://www.hinews.cn/out/*.js?rnd=$s@function ReadGuanggao*function toLoopAll()@function xxx()@
+|http://www.liushuba.com/files/article/html/gle.js
+|http://www.liushuba.com/heibing/js/art_
 |http://www.rmdown.com/link.php$s@var rmJson =*var poJson =@@
 |http://www.rsdown.cn/static/new0613/down.js
 |http://www.zdfans.com/wp-content/themes/D7/img/
@@ -133,6 +138,7 @@ zhuihd.com##[class^="ad-"]
 ||9669.cn/js/360_ads_
 ||9669.cn/js/jquery.flash.min.js
 ||9669.cn/js/jquery.play.min.js
+||adx.88shu.cn
 ||barnfps.com
 ||biqqc.com/ps/data.js
 ||biqqc.com/templates/frontend/frontend-default/js/scoll_bg.js
@@ -169,6 +175,7 @@ zhuihd.com##[class^="ad-"]
 ||static.cdn.dlfyb.com/js/public/pc/player.js$s@var ad_time = 5;@var ad_time = 0;@
 ||static.ftchinese.com/n/a-domore.js
 ||subhd.com$s@var paypopupURL=*</script>@}</script>@
+||symad.cn
 ||symag.cn
 ||topapi.cp12.ott.cibntv.net/router/rest^
 ||topapi.cp12.wasu.tv/router/rest?v=
