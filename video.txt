@@ -1,9 +1,9 @@
-!  -----更新时间:  2018-03-13 23:24:09   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2018-03-15 23:11:34   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224，534897434,438394572--------------
 
 
 !-------------------------------------------
-051661.com##.ads
+051661.com##.ads,.adsbygoogle
 05sun.com##.xzq,[src="/images/ydxz.gif"]
 10jqka.com.cn##.adplace
 188soft.com##.detail-advertise,[href^="http://dl.zasuv.com/download/"]
@@ -11,6 +11,7 @@
 36dm.com##[href^="/qxads/ads"]
 46pj.com##.DaKuang,[height="79"]
 9669.cn##.gg640,.youce_ad,.flash_ad300
+9ku.com##.box6789
 @@|http://ad.molitv.cn/getad.aspx?p=mt_video_
 @@|http://alog.umeng.com/app_
 @@|http://api.downbei.com/dbapinew/post/get_ad_
@@ -57,6 +58,7 @@ henan100.com##.ad
 hepuwang.com##[height="70"]
 hinews.cn##[id^="hi_gg_"],.h80
 hupu.com##[height="60"]
+iask.sina.com.cn###closed_sj
 ifeng.com##.ad640x90
 ipcfun.com##.adsbygoogle,#sidebar_float,.d300,[style^="height:280px;width:336px;"]
 juqingw.com##.AD728,.AD250,.PAD_950_90,.textTop_ad
@@ -75,6 +77,7 @@ qianjia.com##.ad-section
 qihoo.com##[id^="detail_aside_gg"]
 right.com.cn##.a_t
 rjno1.com##.adsbygoogle,[class$="-ad"]
+sc115.com##[id^="logo_"]
 sv.baidu.com##[data-type="ec-feed"],[data-pagepd^="web_tuiguang"]
 vipthz##.a_cn,.a_pb,.a_fl,[height="60"],[height="250"],[height="400"],[width="960"],.portal_block_summary,.it618_firstad_flex,[style="padding- bottom:5px;width:960px;height:60px;"],[src^="http://s1.thzok.com/"],[src^="http://s2.thzok.com/"],[style="margin-top:5px"],[src*=".sinaimg.cn/large/"],[style="padding- bottom:5px;width:960px;height:120px;"],.money_336
 wghai.net##.a_xiu_h,#sc-superman-ad,.a_xiu_t,.a_xiu_pt,.a_xiu_pb,.a_xiu_pr
@@ -86,6 +89,7 @@ yaojingweiba.com##[style^="width:300px;height:250px;"],[src^="http://baiduyun.mo
 yzz22.com##.kopl,.bottom-adv,#haoetv,.topli,[src^="http://cbu01.alicdn.com/img/ibank/"]
 zgpingshu.com##[height="300"],.a25055
 zhuihd.com##[class^="ad-"]
+ziyuanbu.cn##[class^="ad"],#advert-7
 |http://*.com/ps/data.js?t=
 |http://*.me/js/AD.js?v=
 |http://*.net/?u=*|*|*
@@ -106,6 +110,7 @@ zhuihd.com##[class^="ad-"]
 |http://cdn.hen360.com/scrtips/121down/121.js
 |http://cidian.wenku1.com/js/head.js
 |http://hb.vntsm.com/v3/live/ad-manager.min.js
+|http://image.sc115.com/skin/style2013/sc115.js$s@function sc126(a)@function xxxsc126(a)@
 |http://img4.nga.cn/ngabbs/nga_classic/js_default.js$s@if(!ngaAds *//fe@})@
 |http://img4.nga.cn/proxy/cache_attach/ds_list.js
 |http://img4.ngacn.cc/ngabbs/nga_classic/js_default.js$s@if(!ngaAds *//fe@})@
@@ -118,6 +123,7 @@ zhuihd.com##[class^="ad-"]
 |http://pc.ctsywy.com/js/TP$script
 |http://pc.ctsywy.com/js/scold$script
 |http://s.dpcq1.net/public/ptcms/s_wap_novelsearch_chapter_read.js
+|http://ssp.08160.cn/ssp2.js
 |http://static.tj.familydoctor.com.cn/c/a/000/ggw_
 |http://sy.*.com/363/1/1
 |http://t7z.cupid.iqiyi.com/mixer?ap=cp&a=
@@ -154,8 +160,10 @@ zhuihd.com##[class^="ad-"]
 ||biqqc.com/video/$s@l:'http://*',*t:'5',@@
 ||cchfjz.com
 ||cdnjsp.wang
+||cnzz.com/*.php?id=$domain=~ol.tgbus.com|~wukongtv.com|~w.cnzz.com
 ||cupid.ptqy.gitv.tv/mixer$s@"i":"qc_100001_100???",@"i":"qc_100001_100141",@
 ||cupid.ptqy.gitv.tv/mixer?ap=
+||dadjia.com
 ||ddooo.com/public/uaredirect.js$s@function do_main(parm)@@
 ||dilidili.wang/images/shouye/h5game_a.js
 ||dilidili.wang/tempBackup/js/main_video.js
@@ -164,6 +172,7 @@ zhuihd.com##[class^="ad-"]
 ||dlkoo.com/down/copy$s@__csppp.open(paypopupURL@(paypopupURL@
 ||down12.com/common17/js/bdvert.js
 ||downbank.cn/js/g.js
+||download.mokeedev.com/file.php$s@var wait = "60"@var wait = "3"@
 ||feng.com/adg.js
 ||ffychb.com
 ||haxiu.com/style/ad_
@@ -187,6 +196,7 @@ zhuihd.com##[class^="ad-"]
 ||subhd.com$s@var paypopupURL=*</script>@}</script>@
 ||symad.cn
 ||symag.cn
+||tianya999.com/js/tianya999.js
 ||topapi.cp12.ott.cibntv.net/router/rest^
 ||topapi.cp12.wasu.tv/router/rest?v=
 ||wangdddy.com
