@@ -1,4 +1,4 @@
-!  -----更新时间:  2018-03-15 23:11:34   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2018-03-17 23:19:53   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224，534897434,438394572--------------
 
 
@@ -10,6 +10,7 @@
 30k.me###diy1
 36dm.com##[href^="/qxads/ads"]
 46pj.com##.DaKuang,[height="79"]
+88dus.com##[class^="yd_ad"],.adsbygoogle
 9669.cn##.gg640,.youce_ad,.flash_ad300
 9ku.com##.box6789
 @@|http://ad.molitv.cn/getad.aspx?p=mt_video_
@@ -30,6 +31,7 @@ aiaibt.com##[id$="_vvva"],[id$="_vvvaxx"],[href^="http://gotoweburl."],[width="9
 avlang\d{2}\.info##[height="60"]
 beihaiting.com##[class^="banner"],.adsbygoogle
 blog.sina.cn##.txt-tit[style^="padding:"]
+brtn.cn##.business-item
 brtn.cn##[adview-id]
 btzx2017.com##.ad,.header_ad_place
 csdn.net##.yd_a_d_feed_cla,[data-mod^="ad_popu_"]
@@ -71,6 +73,7 @@ ngacn.cc##[id^="postads"],.adshid,.adsh,[id^="adsc"],.adsc
 onlinedown.net##.gg300
 op.gg##.vm-placement,[class^="ads"]
 orsoon.com##[href^="http://dl.qpzqxz.com/download/"]
+panda.tv##.pd-plouto-container
 pc0359.cn##.dl-downs
 pniao.com##.AD_kk
 qianjia.com##.ad-section
@@ -78,16 +81,21 @@ qihoo.com##[id^="detail_aside_gg"]
 right.com.cn##.a_t
 rjno1.com##.adsbygoogle,[class$="-ad"]
 sc115.com##[id^="logo_"]
+sina.com.cn##.top-banner
 sv.baidu.com##[data-type="ec-feed"],[data-pagepd^="web_tuiguang"]
 vipthz##.a_cn,.a_pb,.a_fl,[height="60"],[height="250"],[height="400"],[width="960"],.portal_block_summary,.it618_firstad_flex,[style="padding- bottom:5px;width:960px;height:60px;"],[src^="http://s1.thzok.com/"],[src^="http://s2.thzok.com/"],[style="margin-top:5px"],[src*=".sinaimg.cn/large/"],[style="padding- bottom:5px;width:960px;height:120px;"],.money_336
+vpser.net##.az_pip,.az_textlink1
+wenku1.com##.dd300
 wghai.net##.a_xiu_h,#sc-superman-ad,.a_xiu_t,.a_xiu_pt,.a_xiu_pb,.a_xiu_pr
 wuzuowei.net##.asb
 xinhuanet.com##[src^="../../ad/"]
 xitongcheng.com##[class$="_adv"]
 xiwuji.com##.nav_ding_ad
+xlyy100.com##.nicegame,.dw_propt
 yaojingweiba.com##[style^="width:300px;height:250px;"],[src^="http://baiduyun.modelelement.com/afiles/"]
 yzz22.com##.kopl,.bottom-adv,#haoetv,.topli,[src^="http://cbu01.alicdn.com/img/ibank/"]
 zgpingshu.com##[height="300"],.a25055
+zhongzifuli.ws##[src^="http://go.gotourl.xyz/"]
 zhuihd.com##[class^="ad-"]
 ziyuanbu.cn##[class^="ad"],#advert-7
 |http://*.com/ps/data.js?t=
@@ -135,6 +143,7 @@ ziyuanbu.cn##[class^="ad"],#advert-7
 |http://www.hinews.cn/out/*.js?rnd=$s@function ReadGuanggao*function toLoopAll()@function xxx()@
 |http://www.liushuba.com/files/article/html/gle.js
 |http://www.liushuba.com/heibing/js/art_
+|http://www.lvse.com/js/lvse.comm.js$s@var url = self.location.href;@@
 |http://www.rmdown.com/link.php$s@var rmJson =*var poJson =@@
 |http://www.rsdown.cn/static/new0613/down.js
 |http://www.zdfans.com/wp-content/themes/D7/img/
@@ -163,6 +172,7 @@ ziyuanbu.cn##[class^="ad"],#advert-7
 ||cnzz.com/*.php?id=$domain=~ol.tgbus.com|~wukongtv.com|~w.cnzz.com
 ||cupid.ptqy.gitv.tv/mixer$s@"i":"qc_100001_100???",@"i":"qc_100001_100141",@
 ||cupid.ptqy.gitv.tv/mixer?ap=
+||cxaerp.com
 ||dadjia.com
 ||ddooo.com/public/uaredirect.js$s@function do_main(parm)@@
 ||dilidili.wang/images/shouye/h5game_a.js
@@ -175,8 +185,10 @@ ziyuanbu.cn##[class^="ad"],#advert-7
 ||download.mokeedev.com/file.php$s@var wait = "60"@var wait = "3"@
 ||feng.com/adg.js
 ||ffychb.com
+||harbinbaojia.net
 ||haxiu.com/style/ad_
 ||hoopchina.com.cn/pcbbs/js/read-shihuo-photo-ad.js
+||i.wenku1.com/js/head.js
 ||ibaiducdn.com/Public/Assets/js/hz_
 ||jsqsuperglobalcdn.com/js/400biz.js
 ||juqingw.com/js/tad
@@ -185,17 +197,21 @@ ziyuanbu.cn##[class^="ad"],#advert-7
 ||kumao2018.com/temp/Banner/
 ||liliwoin.top
 ||lzytt.com
+||mengchengbao.com
 ||miiuv.com
 ||olmvkq.cn^
 ||opqsr.com
+||sdkcdn.videojj.com/live-tag/
 ||shandongkuntuo.com
 ||shongcheng.com
+||smsksx.com^
 ||sqwscy.com
 ||static.cdn.dlfyb.com/js/public/pc/player.js$s@var ad_time = 5;@var ad_time = 0;@
 ||static.ftchinese.com/n/a-domore.js
 ||subhd.com$s@var paypopupURL=*</script>@}</script>@
 ||symad.cn
 ||symag.cn
+||tdtsd.com
 ||tianya999.com/js/tianya999.js
 ||topapi.cp12.ott.cibntv.net/router/rest^
 ||topapi.cp12.wasu.tv/router/rest?v=
