@@ -1,4 +1,4 @@
-!  -----更新时间:  2018-03-18 15:45:59   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2018-03-21 23:19:37   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224，534897434,438394572--------------
 
 
@@ -6,8 +6,10 @@
 051661.com##.ads,.adsbygoogle
 05sun.com##.xzq,[src="/images/ydxz.gif"]
 10jqka.com.cn##.adplace
+1200ksw.com##.gg,.catalogads
 188soft.com##.detail-advertise,[href^="http://dl.zasuv.com/download/"]
 30k.me###diy1
+3322.cc##[class^="DetCM1XZ"]
 36dm.com##[href^="/qxads/ads"]
 46pj.com##.DaKuang,[height="79"]
 88dus.com##[class^="yd_ad"],.adsbygoogle
@@ -28,6 +30,7 @@
 ^http://www\.haoju\d{1,2}\.com/js/bbb/
 acgsou.com##[href^="/qxads/ads"]
 aiaibt.com##[id$="_vvva"],[id$="_vvvaxx"],[href^="http://gotoweburl."],[width="960"],[id="adfdiv"]
+amu520.com##[href="http://m.yilingxs.com/"],[href^="http://www.yilingxs.com/"]
 avlang\d{2}\.info##[height="60"]
 beihaiting.com##[class^="banner"],.adsbygoogle
 blog.sina.cn##.txt-tit[style^="padding:"]
@@ -68,7 +71,9 @@ kcili.com###hm_cpm_show
 landiannews.com##.asb
 landiannews.com##[width="336"]
 lc123.net##.gg970,.adsbygoogle
+ldw.la###adtop
 nga.cn##[id^="postads"],.adshid,.adsh,.adsc
+ngacn.cc###bbs_ads1ImgObj,[href^="http://gg.stargame.com/"]
 ngacn.cc##[id^="postads"],.adshid,.adsh,[id^="adsc"],.adsc
 onlinedown.net##.gg300
 op.gg##.vm-placement,[class^="ads"]
@@ -78,9 +83,11 @@ pc0359.cn##.dl-downs
 pniao.com##.AD_kk
 qianjia.com##.ad-section
 qihoo.com##[id^="detail_aside_gg"]
+qiuquan.cc###advert_widget
 right.com.cn##.a_t
 rjno1.com##.adsbygoogle,[class$="-ad"]
 sc115.com##[id^="logo_"]
+shushu8.com##.readmidad,.ggad
 sina.cn##[data-sudaclick^="one_pic_conf_"],[href^="https://render.m.taobao.com/shop/"],[class="m_f_a show "],[data-info^="ad_none"],[href^="http://saxn.sina.com.cn/dsp/click"]
 sina.com.cn##.top-banner,.M18_ad,[data-sudaclick^="one_pic_conf_"]
 ssports.com##.ad-1,.new_i_rbanner
@@ -89,6 +96,7 @@ vipthz##.a_cn,.a_pb,.a_fl,[height="60"],[height="250"],[height="400"],[width="96
 vpser.net##.az_pip,.az_textlink1
 wenku1.com##.dd300
 wghai.net##.a_xiu_h,#sc-superman-ad,.a_xiu_t,.a_xiu_pt,.a_xiu_pb,.a_xiu_pr
+wuchajian.net##.UPAD,.TopAD,.headAD,[class^="TextAd"]
 wuzuowei.net##.asb
 xinhuanet.com##[src^="../../ad/"]
 xitongcheng.com##[class$="_adv"]
@@ -100,8 +108,10 @@ zgpingshu.com##[height="300"],.a25055
 zhongzifuli.ws##[src^="http://go.gotourl.xyz/"]
 zhuihd.com##[class^="ad-"]
 ziyuanbu.cn##[class^="ad"],#advert-7
+znds.com##.a_czt
 |http://*.com/ps/data.js?t=
 |http://*.m.b5200.net
+|http://*.m.lanseshuba.com
 |http://*.me/js/AD.js?v=
 |http://*.net/?u=*|*|*
 |http://*.tw/js/setIframeHeight.php?h=
@@ -118,6 +128,7 @@ ziyuanbu.cn##[class^="ad"],#advert-7
 |http://acs.youku.com/h5/mtop.youku.play.ups.appinfo.get/$f@s@%2C%5C%22p%5C%22%3A1%2C%5C%22@%2C%5C%22p%5C%22%3A0%2C%5C%22@
 |http://acs.youku.com/h5/mtop.youku.play.ups.appinfo.get/$s@{"P":1,"VAL":@{"P":0,"VAL":@
 |http://agn.aty.snmsohu.aisee.tv/m?prot=
+|http://assets.258pcf.com/ss/sst.js
 |http://baiduyun.modelelement.com/afiles/
 |http://cdn.hen360.com/scrtips/121down/121.js
 |http://cidian.wenku1.com/js/head.js
@@ -134,6 +145,8 @@ ziyuanbu.cn##[class^="ad"],#advert-7
 |http://m.b5200.net/js/main.js$s@function qijixs_dingbu*function aliXuanFu()@function xxx()@
 |http://m.haokoo.com/mobi_js/pic.js
 |http://m.haotxt.com/index.php?m=book/ad&js=
+|http://m.lanseshuba.com/js/fc$script
+|http://m.shushu8.com/js/1$script
 |http://pc.ctsywy.com/js/TP$script
 |http://pc.ctsywy.com/js/scold$script
 |http://s.dpcq1.net/public/ptcms/s_wap_novelsearch_chapter_read.js
@@ -144,6 +157,7 @@ ziyuanbu.cn##[class^="ad"],#advert-7
 |http://ups.youku.com/ups/get.json?vid=$s@"RS":"http*"@"RS":"http://policy.com"@
 |http://ups.youku.com/ups/get.json?vid=$s@{"P":1,"VAL":@{"P":0,"VAL":@
 |http://web.door2new.net^
+|http://www.52ifx.com/vip/js/0929*.js
 |http://www.dianmi.net/tj/
 |http://www.haoju*.com/js/play.js$s@var adsTime=??;@var adsTime=0;@
 |http://www.hinews.cn/out/*.js?rnd=$s@function ReadGuanggao*function toLoopAll()@function xxx()@
@@ -190,6 +204,7 @@ ziyuanbu.cn##[class^="ad"],#advert-7
 ||down12.com/common17/js/bdvert.js
 ||downbank.cn/js/g.js
 ||download.mokeedev.com/file.php$s@var wait = "60"@var wait = "3"@
+||download.mokeedev.com/file.php$s@window.setTimeout@window.xxxsetTimeout@
 ||feng.com/adg.js
 ||ffychb.com
 ||harbinbaojia.net
@@ -201,16 +216,22 @@ ziyuanbu.cn##[class^="ad"],#advert-7
 ||jsqsuperglobalcdn.com/js/400biz.js
 ||juqingw.com/js/tad
 ||kcooy.com
+||kewaishu.info/ad1/wap.js$s@function qijixs_top*function tongji()@function xxx()@
+||kewaishu.info/js/yuedu$script
 ||ksksqa.cn^
 ||kteyz.com
 ||kumao2018.com/temp/Banner/
+||lanseshuba.com/xbai.net/js/77ad
 ||liliwoin.top
 ||lzytt.com
+||m.1200ksw.com/00ksw/script/wap2.js
 ||mengchengbao.com
 ||miiuv.com
+||ngacn.cc/proxy/cache_attach/ds_list.js
 ||olmvkq.cn^
 ||opqsr.com
 ||sdkcdn.videojj.com/live-tag/
+||sdsqyyc.com
 ||shandongkuntuo.com
 ||shongcheng.com
 ||smsksx.com^
