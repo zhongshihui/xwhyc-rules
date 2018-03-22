@@ -1,4 +1,4 @@
-!  -----更新时间:  2018-03-21 23:19:37   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2018-03-22 23:14:12   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224，534897434,438394572--------------
 
 
@@ -14,6 +14,7 @@
 46pj.com##.DaKuang,[height="79"]
 88dus.com##[class^="yd_ad"],.adsbygoogle
 9669.cn##.gg640,.youce_ad,.flash_ad300
+99down.com##[width="450"]
 9ku.com##.box6789
 @@|http://ad.molitv.cn/getad.aspx?p=mt_video_
 @@|http://alog.umeng.com/app_
@@ -72,6 +73,7 @@ landiannews.com##.asb
 landiannews.com##[width="336"]
 lc123.net##.gg970,.adsbygoogle
 ldw.la###adtop
+m.duanwenxue.com##[class="qgzdwx xdwxx"]
 nga.cn##[id^="postads"],.adshid,.adsh,.adsc
 ngacn.cc###bbs_ads1ImgObj,[href^="http://gg.stargame.com/"]
 ngacn.cc##[id^="postads"],.adshid,.adsh,[id^="adsc"],.adsc
@@ -89,7 +91,7 @@ rjno1.com##.adsbygoogle,[class$="-ad"]
 sc115.com##[id^="logo_"]
 shushu8.com##.readmidad,.ggad
 sina.cn##[data-sudaclick^="one_pic_conf_"],[href^="https://render.m.taobao.com/shop/"],[class="m_f_a show "],[data-info^="ad_none"],[href^="http://saxn.sina.com.cn/dsp/click"]
-sina.com.cn##.top-banner,.M18_ad,[data-sudaclick^="one_pic_conf_"]
+sina.com.cn##.top-banner,.M18_ad,[data-sudaclick^="one_pic_conf_"],[data-info^="ad_none"]
 ssports.com##.ad-1,.new_i_rbanner
 sv.baidu.com##[data-type="ec-feed"],[data-pagepd^="web_tuiguang"]
 vipthz##.a_cn,.a_pb,.a_fl,[height="60"],[height="250"],[height="400"],[width="960"],.portal_block_summary,.it618_firstad_flex,[style="padding- bottom:5px;width:960px;height:60px;"],[src^="http://s1.thzok.com/"],[src^="http://s2.thzok.com/"],[style="margin-top:5px"],[src*=".sinaimg.cn/large/"],[style="padding- bottom:5px;width:960px;height:120px;"],.money_336
@@ -109,6 +111,7 @@ zhongzifuli.ws##[src^="http://go.gotourl.xyz/"]
 zhuihd.com##[class^="ad-"]
 ziyuanbu.cn##[class^="ad"],#advert-7
 znds.com##.a_czt
+zuanke8.com##[align="center"][style]
 |http://*.com/ps/data.js?t=
 |http://*.m.b5200.net
 |http://*.m.lanseshuba.com
@@ -191,6 +194,7 @@ znds.com##.a_czt
 ||cchfjz.com
 ||cdnjsp.wang
 ||cnzz.com/*.php?id=$domain=~ol.tgbus.com|~wukongtv.com|~w.cnzz.com
+||cre-dp.sina.cn^
 ||cupid.ptqy.gitv.tv/mixer$s@"i":"qc_100001_100???",@"i":"qc_100001_100141",@
 ||cupid.ptqy.gitv.tv/mixer?ap=
 ||cxaerp.com
@@ -209,6 +213,7 @@ znds.com##.a_czt
 ||ffychb.com
 ||harbinbaojia.net
 ||haxiu.com/style/ad_
+||hbhxqcw.com
 ||hhllyt.com
 ||hoopchina.com.cn/pcbbs/js/read-shihuo-photo-ad.js
 ||i.wenku1.com/js/head.js
@@ -230,6 +235,7 @@ znds.com##.a_czt
 ||ngacn.cc/proxy/cache_attach/ds_list.js
 ||olmvkq.cn^
 ||opqsr.com
+||pubg.op.gg$s@src="//hb.vntsm.com/v3/live/ad-manager.min.js"@src=""@
 ||sdkcdn.videojj.com/live-tag/
 ||sdsqyyc.com
 ||shandongkuntuo.com
@@ -238,6 +244,7 @@ znds.com##.a_czt
 ||sqwscy.com
 ||static.cdn.dlfyb.com/js/public/pc/player.js$s@var ad_time = 5;@var ad_time = 0;@
 ||static.ftchinese.com/n/a-domore.js
+||stats.chinaz.com/tools_img/tool_$script
 ||subhd.com$s@var paypopupURL=*</script>@}</script>@
 ||symad.cn
 ||symag.cn
