@@ -1,4 +1,4 @@
-!  -----更新时间:  2018-03-22 23:14:12   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2018-03-26 22:59:33   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224，534897434,438394572--------------
 
 
@@ -15,6 +15,7 @@
 88dus.com##[class^="yd_ad"],.adsbygoogle
 9669.cn##.gg640,.youce_ad,.flash_ad300
 99down.com##[width="450"]
+99segui.com,lmproduel.com###top_box
 9ku.com##.box6789
 @@|http://ad.molitv.cn/getad.aspx?p=mt_video_
 @@|http://alog.umeng.com/app_
@@ -28,16 +29,20 @@
 @@||exosrv.com/ads$domain=avgle.com
 @@||zbj.com
 ^http://[^/]*/[a-z]{6,}\.js$s@try{!function(t){window._SF_&&window._SF_._global_&&window._SF_._global_._ssp&&(t=window._SF_._global_._ssp),function(){var e={name:'sojs',namespace:'',classes:{},classesCache:{},path:{},pathCache:{},noop:function(){},$sojs:function()@@
+^http://www\.\d{3}avtb\.###player-advertising,.ads-footer,.ads-player,.ads,[href*="/?Intr="],[href*="/?Extend="],[href*="/?intr="],[href*="/?aff="],[href="http://www.un99.pw"],.vjs-poster,[src*=".sinaimg.cn/large/"],[style^="padding-"]
+^http://www\.\d{3}avtb\.$s@ var s = document.createElement('script');*head.appendChild(s);@@
 ^http://www\.haoju\d{1,2}\.com/js/bbb/
 acgsou.com##[href^="/qxads/ads"]
 aiaibt.com##[id$="_vvva"],[id$="_vvvaxx"],[href^="http://gotoweburl."],[width="960"],[id="adfdiv"]
 amu520.com##[href="http://m.yilingxs.com/"],[href^="http://www.yilingxs.com/"]
 avlang\d{2}\.info##[height="60"]
+bbs.tiexue.net##.pip
 beihaiting.com##[class^="banner"],.adsbygoogle
 blog.sina.cn##.txt-tit[style^="padding:"]
 brtn.cn##.business-item
 brtn.cn##[adview-id]
 btzx2017.com##.ad,.header_ad_place
+china.com##.mm-336x280
 csdn.net##.yd_a_d_feed_cla,[data-mod^="ad_popu_"]
 dataguru.cn##.dg_ad
 docin.com##[id^="view_adv"]
@@ -74,6 +79,7 @@ landiannews.com##[width="336"]
 lc123.net##.gg970,.adsbygoogle
 ldw.la###adtop
 m.duanwenxue.com##[class="qgzdwx xdwxx"]
+manhuagui.com##[class^="gg_"]
 nga.cn##[id^="postads"],.adshid,.adsh,.adsc
 ngacn.cc###bbs_ads1ImgObj,[href^="http://gg.stargame.com/"]
 ngacn.cc##[id^="postads"],.adshid,.adsh,[id^="adsc"],.adsc
@@ -146,6 +152,8 @@ zuanke8.com##[align="center"][style]
 |http://m.6080.tv/public/js/m/37.js
 |http://m.b5200.net/js/main.js$s@function invoke@function invokexxx@
 |http://m.b5200.net/js/main.js$s@function qijixs_dingbu*function aliXuanFu()@function xxx()@
+|http://m.chenhuixsd.com/js/2254
+|http://m.chenhuixsd.com/js/tb.js
 |http://m.haokoo.com/mobi_js/pic.js
 |http://m.haotxt.com/index.php?m=book/ad&js=
 |http://m.lanseshuba.com/js/fc$script
@@ -161,6 +169,9 @@ zuanke8.com##[align="center"][style]
 |http://ups.youku.com/ups/get.json?vid=$s@{"P":1,"VAL":@{"P":0,"VAL":@
 |http://web.door2new.net^
 |http://www.52ifx.com/vip/js/0929*.js
+|http://www.7mav###player-advertising,.ads-footer,.ads-player,.ads,[href*="/?Intr="],[href*="/?Extend="],[href*="/?intr="],[href*="/?aff="],[href="http://www.un99.pw"],.vjs-poster,[src*=".sinaimg.cn/large/"],[style^="padding-"]
+|http://www.88pan.cc/file$s@href=\"down2-@href=\"down-@
+|http://www.88pan.cc/file$s@var paypopupURL=@@
 |http://www.dianmi.net/tj/
 |http://www.haoju*.com/js/play.js$s@var adsTime=??;@var adsTime=0;@
 |http://www.hinews.cn/out/*.js?rnd=$s@function ReadGuanggao*function toLoopAll()@function xxx()@
@@ -171,9 +182,11 @@ zuanke8.com##[align="center"][style]
 |http://www.rsdown.cn/static/new0613/down.js
 |http://www.zdfans.com/*jump.js|
 |http://www.zdfans.com/wp-content/themes/D7/img/
+|http://zy.nszmz.com/scrtips/777pan/777pan.js
 ||0123kjz.com^
 ||0571hy.com
 ||100ea.com
+||181lm.net
 ||24meinv.org/js/total.js
 ||28487.net
 ||36dm.com/qxads/
@@ -193,8 +206,11 @@ zuanke8.com##[align="center"][style]
 ||biqqc.com/video/$s@l:'http://*',*t:'5',@@
 ||cchfjz.com
 ||cdnjsp.wang
+||cntorrentkitty.##[src^="http://go.gotourl."]
+||cntorrentkitty.$s@<div class="footer" >*/noscript>@@
 ||cnzz.com/*.php?id=$domain=~ol.tgbus.com|~wukongtv.com|~w.cnzz.com
 ||cre-dp.sina.cn^
+||cshlgg.com
 ||cupid.ptqy.gitv.tv/mixer$s@"i":"qc_100001_100???",@"i":"qc_100001_100141",@
 ||cupid.ptqy.gitv.tv/mixer?ap=
 ||cxaerp.com
@@ -211,6 +227,9 @@ zuanke8.com##[align="center"][style]
 ||download.mokeedev.com/file.php$s@window.setTimeout@window.xxxsetTimeout@
 ||feng.com/adg.js
 ||ffychb.com
+||gaoqingyy.net/baidu.js$script
+||gaoqingyy.net/hengfutupian/$script
+||ggweb.net
 ||harbinbaojia.net
 ||haxiu.com/style/ad_
 ||hbhxqcw.com
@@ -218,6 +237,8 @@ zuanke8.com##[align="center"][style]
 ||hoopchina.com.cn/pcbbs/js/read-shihuo-photo-ad.js
 ||i.wenku1.com/js/head.js
 ||ibaiducdn.com/Public/Assets/js/hz_
+||ishowms.com
+||jinchaoyu.com
 ||jsqsuperglobalcdn.com/js/400biz.js
 ||juqingw.com/js/tad
 ||kcooy.com
@@ -233,9 +254,12 @@ zuanke8.com##[align="center"][style]
 ||mengchengbao.com
 ||miiuv.com
 ||ngacn.cc/proxy/cache_attach/ds_list.js
+||nyaso.net/static/js/nya.js
 ||olmvkq.cn^
 ||opqsr.com
 ||pubg.op.gg$s@src="//hb.vntsm.com/v3/live/ad-manager.min.js"@src=""@
+||qiujinxiao.com
+||sczhilong.cn
 ||sdkcdn.videojj.com/live-tag/
 ||sdsqyyc.com
 ||shandongkuntuo.com
@@ -254,10 +278,15 @@ zuanke8.com##[align="center"][style]
 ||topapi.cp12.wasu.tv/router/rest?v=
 ||viiqx.com
 ||wangdddy.com
+||wffengtai.com.cn
+||xinhuawei.cxd88.com
 ||xjzyq.com
 ||y3600.com/18022
+||yjkyj.cn^
 ||yljiaoluo.com
 ||ytbnm.cn
+||zcdor.com
+||zgclmw.cn
 ||zjuwjdc.com
 !-----------------------
 |http://*/yswarv.js|$script
