@@ -1,8 +1,9 @@
-!  -----更新时间:  2018-03-26 22:59:33   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2018-03-28 23:11:56   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224，534897434,438394572--------------
 
 
 !-------------------------------------------
+||uca6.com
 051661.com##.ads,.adsbygoogle
 05sun.com##.xzq,[src="/images/ydxz.gif"]
 10jqka.com.cn##.adplace
@@ -27,6 +28,9 @@
 @@|http://www.hinews.cn/out/*.js?rnd=
 @@||cdndm5.com/*/dm5/images/banners/$image
 @@||exosrv.com/ads$domain=avgle.com
+@@||log.mmstat.com
+@@||mmstat.com/$domain=v.youku.com|tudou.com
+@@||res.mmstat.com
 @@||zbj.com
 ^http://[^/]*/[a-z]{6,}\.js$s@try{!function(t){window._SF_&&window._SF_._global_&&window._SF_._global_._ssp&&(t=window._SF_._global_._ssp),function(){var e={name:'sojs',namespace:'',classes:{},classesCache:{},path:{},pathCache:{},noop:function(){},$sojs:function()@@
 ^http://www\.\d{3}avtb\.###player-advertising,.ads-footer,.ads-player,.ads,[href*="/?Intr="],[href*="/?Extend="],[href*="/?intr="],[href*="/?aff="],[href="http://www.un99.pw"],.vjs-poster,[src*=".sinaimg.cn/large/"],[style^="padding-"]
@@ -101,7 +105,7 @@ sina.com.cn##.top-banner,.M18_ad,[data-sudaclick^="one_pic_conf_"],[data-info^="
 ssports.com##.ad-1,.new_i_rbanner
 sv.baidu.com##[data-type="ec-feed"],[data-pagepd^="web_tuiguang"]
 vipthz##.a_cn,.a_pb,.a_fl,[height="60"],[height="250"],[height="400"],[width="960"],.portal_block_summary,.it618_firstad_flex,[style="padding- bottom:5px;width:960px;height:60px;"],[src^="http://s1.thzok.com/"],[src^="http://s2.thzok.com/"],[style="margin-top:5px"],[src*=".sinaimg.cn/large/"],[style="padding- bottom:5px;width:960px;height:120px;"],.money_336
-vpser.net##.az_pip,.az_textlink1
+vpser.net##.az_pip,.az_textlink1,.ac_pip
 wenku1.com##.dd300
 wghai.net##.a_xiu_h,#sc-superman-ad,.a_xiu_t,.a_xiu_pt,.a_xiu_pb,.a_xiu_pr
 wuchajian.net##.UPAD,.TopAD,.headAD,[class^="TextAd"]
@@ -158,6 +162,7 @@ zuanke8.com##[align="center"][style]
 |http://m.haotxt.com/index.php?m=book/ad&js=
 |http://m.lanseshuba.com/js/fc$script
 |http://m.shushu8.com/js/1$script
+|http://p.xiepp.com/bundles/
 |http://pc.ctsywy.com/js/TP$script
 |http://pc.ctsywy.com/js/scold$script
 |http://s.dpcq1.net/public/ptcms/s_wap_novelsearch_chapter_read.js
@@ -196,10 +201,12 @@ zuanke8.com##[align="center"][style]
 ||6vhao.tv/d/$script
 ||77kp.com/jquery/banners-
 ||7895983.cn^
+||86kx.com/images/blgg/$script
 ||9669.cn/js/360_ads_
 ||9669.cn/js/jquery.flash.min.js
 ||9669.cn/js/jquery.play.min.js
 ||adx.88shu.cn
+||avbb.fun/wp-content/themes/TubeAceDefault/js/
 ||barnfps.com
 ||biqqc.com/ps/data.js
 ||biqqc.com/templates/frontend/frontend-default/js/scoll_bg.js
@@ -227,8 +234,10 @@ zuanke8.com##[align="center"][style]
 ||download.mokeedev.com/file.php$s@window.setTimeout@window.xxxsetTimeout@
 ||feng.com/adg.js
 ||ffychb.com
+||gaoqingkong.com$s@>/?<![CDATA[?/function getCookie*/</script>@></script>@
 ||gaoqingyy.net/baidu.js$script
 ||gaoqingyy.net/hengfutupian/$script
+||georgias.cn
 ||ggweb.net
 ||harbinbaojia.net
 ||haxiu.com/style/ad_
@@ -237,6 +246,7 @@ zuanke8.com##[align="center"][style]
 ||hoopchina.com.cn/pcbbs/js/read-shihuo-photo-ad.js
 ||i.wenku1.com/js/head.js
 ||ibaiducdn.com/Public/Assets/js/hz_
+||imgf.gade.suimeng.la^
 ||ishowms.com
 ||jinchaoyu.com
 ||jsqsuperglobalcdn.com/js/400biz.js
@@ -249,13 +259,16 @@ zuanke8.com##[align="center"][style]
 ||kumao2018.com/temp/Banner/
 ||lanseshuba.com/xbai.net/js/77ad
 ||liliwoin.top
+||lmproduel.com$s@<script language="javascript" type="text/javascript" src="http://wap.door2new.net*"></script>@@
 ||lzytt.com
 ||m.1200ksw.com/00ksw/script/wap2.js
 ||mengchengbao.com
 ||miiuv.com
+||mu722.com
 ||ngacn.cc/proxy/cache_attach/ds_list.js
 ||nyaso.net/static/js/nya.js
 ||olmvkq.cn^
+||oload.site$s@BetterJsPop.add(@@
 ||opqsr.com
 ||pubg.op.gg$s@src="//hb.vntsm.com/v3/live/ad-manager.min.js"@src=""@
 ||qiujinxiao.com
@@ -289,7 +302,7 @@ zuanke8.com##[align="center"][style]
 ||zgclmw.cn
 ||zjuwjdc.com
 !-----------------------
-|http://*/yswarv.js|$script
+
 
 
 
