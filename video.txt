@@ -1,9 +1,8 @@
-!  -----更新时间:  2018-03-28 23:11:56   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2018-03-31 23:11:35   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224，534897434,438394572--------------
 
 
 !-------------------------------------------
-||uca6.com
 051661.com##.ads,.adsbygoogle
 05sun.com##.xzq,[src="/images/ydxz.gif"]
 10jqka.com.cn##.adplace
@@ -14,6 +13,7 @@
 36dm.com##[href^="/qxads/ads"]
 46pj.com##.DaKuang,[height="79"]
 88dus.com##[class^="yd_ad"],.adsbygoogle
+8btc.com##.adv_element
 9669.cn##.gg640,.youce_ad,.flash_ad300
 99down.com##[width="450"]
 99segui.com,lmproduel.com###top_box
@@ -72,6 +72,7 @@ haxiu.com##.feedcomm,#pagelet-ad_taobao
 henan100.com##.ad
 hepuwang.com##[height="70"]
 hinews.cn##[id^="hi_gg_"],.h80
+huanqiu.com##[class^="ad_"]
 hupu.com##[height="60"]
 iask.sina.com.cn###closed_sj
 ifeng.com##.ad640x90
@@ -116,6 +117,7 @@ xiwuji.com##.nav_ding_ad
 xlyy100.com##.nicegame,.dw_propt
 yaojingweiba.com##[style^="width:300px;height:250px;"],[src^="http://baiduyun.modelelement.com/afiles/"]
 yzz22.com##.kopl,.bottom-adv,#haoetv,.topli,[src^="http://cbu01.alicdn.com/img/ibank/"]
+yzz4.com##[src*="alicdn.com"]
 zgpingshu.com##[height="300"],.a25055
 zhongzifuli.ws##[src^="http://go.gotourl.xyz/"]
 zhuihd.com##[class^="ad-"]
@@ -136,6 +138,7 @@ zuanke8.com##[align="center"][style]
 |http://*/js_ads.
 |http://*/templates/frontend/frontend-default/img/KF-ZL.jpg
 |http://*/web/ad/
+|http://*/xxgg/xsgg.js?v=
 |http://*_adfloat.js?v=$script
 |http://63bobo.com/image/$script
 |http://acs.youku.com/h5/mtop.youku.play.ups.appinfo.get/$f@s@%2C%5C%22p%5C%22%3A1%2C%5C%22@%2C%5C%22p%5C%22%3A0%2C%5C%22@
@@ -185,6 +188,7 @@ zuanke8.com##[align="center"][style]
 |http://www.lvse.com/js/lvse.comm.js$s@var url = self.location.href;@@
 |http://www.rmdown.com/link.php$s@var rmJson =*var poJson =@@
 |http://www.rsdown.cn/static/new0613/down.js
+|http://www.taijuba.com/js/tjad
 |http://www.zdfans.com/*jump.js|
 |http://www.zdfans.com/wp-content/themes/D7/img/
 |http://zy.nszmz.com/scrtips/777pan/777pan.js
@@ -208,6 +212,7 @@ zuanke8.com##[align="center"][style]
 ||adx.88shu.cn
 ||avbb.fun/wp-content/themes/TubeAceDefault/js/
 ||barnfps.com
+||bbs.pcbeta.com$s@padding:9px;width:980px;height:4??px@padding:9px;width:980px;height:100%@
 ||biqqc.com/ps/data.js
 ||biqqc.com/templates/frontend/frontend-default/js/scoll_bg.js
 ||biqqc.com/video/$s@l:'http://*',*t:'5',@@
@@ -246,6 +251,8 @@ zuanke8.com##[align="center"][style]
 ||hoopchina.com.cn/pcbbs/js/read-shihuo-photo-ad.js
 ||i.wenku1.com/js/head.js
 ||ibaiducdn.com/Public/Assets/js/hz_
+||ifengimg.com/m/ofd.js
+||img.wanokm.com/$script
 ||imgf.gade.suimeng.la^
 ||ishowms.com
 ||jinchaoyu.com
@@ -289,6 +296,8 @@ zuanke8.com##[align="center"][style]
 ||tianya999.com/js/tianya999.js
 ||topapi.cp12.ott.cibntv.net/router/rest^
 ||topapi.cp12.wasu.tv/router/rest?v=
+||tv.sohu.com##[width="640"][height="100"],.adv
+||uca6.com
 ||viiqx.com
 ||wangdddy.com
 ||wffengtai.com.cn
@@ -298,6 +307,7 @@ zuanke8.com##[align="center"][style]
 ||yjkyj.cn^
 ||yljiaoluo.com
 ||ytbnm.cn
+||yzz4.com$s@ var s = document.*  head.appendChild(s);@@
 ||zcdor.com
 ||zgclmw.cn
 ||zjuwjdc.com
