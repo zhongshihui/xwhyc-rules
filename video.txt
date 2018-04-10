@@ -1,20 +1,28 @@
-!  -----更新时间:  2018-04-06 15:44:22   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2018-04-09 23:08:09   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224，534897434,438394572--------------
 
 
 !-------------------------------------------
-qqzhibo.net##[id^="ad_"],.banner
-||qqzhibo.net/?a=check&*&gg=
-||cfdanet.com
-||hebzycw.com
-||sysal.cn
-ihref.com##.adsbygoogle,.banner
+@@|http://*/adv_$domain=i-mobile.co.jp
 @@|http://js.passport.qihucdn.com$script
+btshoufa.net##[class^="ADTOP"]
 dnvod.tv##.bfq-l-2,[class^="i-cp "],._AJ,#clickbgleft,#clickbgright,[data-link^="/c/c?position="]
-||dnvod.tv/Movie/Readyplay.aspx$s@PlayVideo("t");@PlayVideo("txxx");@
-|http://www.dnvod.tv^$s@visibility:visible !important@display:none!important;display:none@
+ihref.com##.adsbygoogle,.banner
+livku.com##.ad960,.adjx
+qqzhibo.net##[id^="ad_"],.banner
+|http://s*.thzok.com
 |http://static.dnvod.tv/upload/video/20*.jpg
-
+|http://static.xpcha.com/js/notice.js
+|http://www.dnvod.tv^$s@visibility:visible !important@display:none!important;display:none@
+|http://www.viidii.info/$s@function initJ()@function xxx()@
+||cfdanet.com
+||dnvod.tv/Movie/Readyplay.aspx$s@PlayVideo("t");@PlayVideo("txxx");@
+||file.livku.com/g1000/
+||hebzycw.com
+||qqzhibo.net/?a=check&*&gg=
+||sysal.cn
+||vd.l.qq.com/proxyhttp
+||zhongzk.com
 
 
 !-----------------------
