@@ -1,29 +1,46 @@
-!  -----更新时间:  2018-04-09 23:08:09   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2018-04-14 22:51:13   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224，534897434,438394572--------------
 
 
 !-------------------------------------------
+52sharing.cn###comment-ad,.banner.banner-post
 @@|http://*/adv_$domain=i-mobile.co.jp
 @@|http://js.passport.qihucdn.com$script
 btshoufa.net##[class^="ADTOP"]
 dnvod.tv##.bfq-l-2,[class^="i-cp "],._AJ,#clickbgleft,#clickbgright,[data-link^="/c/c?position="]
+eastday.com##.dspAd
+ft.com##[class^="banner"],[class^="mpu-container"]
+fx112.com##.aditem
 ihref.com##.adsbygoogle,.banner
 livku.com##.ad960,.adjx
+ngacn.cc##[id^="bbs_ads"]
+pconline.com.cn##.ivy
 qqzhibo.net##[id^="ad_"],.banner
+|http://99*.com##.dmcenter,.half-img
+|http://99*.com/js/layer.js?ver=1
+|http://alicili.##[src^="http://go.gotourls."],[href^="http://go.gotourls."]
+|http://m.yfxiaoshuob.com/js/foot.js
+|http://m.yfxiaoshuob.com/js/hfz
 |http://s*.thzok.com
 |http://static.dnvod.tv/upload/video/20*.jpg
 |http://static.xpcha.com/js/notice.js
+|http://www.cncrk.com/style2018/js/rjbz.js
 |http://www.dnvod.tv^$s@visibility:visible !important@display:none!important;display:none@
+|http://www.jz5u.com/count.js
 |http://www.viidii.info/$s@function initJ()@function xxx()@
 ||cfdanet.com
 ||dnvod.tv/Movie/Readyplay.aspx$s@PlayVideo("t");@PlayVideo("txxx");@
 ||file.livku.com/g1000/
 ||hebzycw.com
+||juren0.com
+||juyzr.com
+||l.qq.com/proxyhttp|$s@{"ad":"{@{"adxxx":"{@
 ||qqzhibo.net/?a=check&*&gg=
+||sezvc.com
 ||sysal.cn
-||vd.l.qq.com/proxyhttp
+||wzaigo.com
 ||zhongzk.com
-
+||zimuku.cn/images/v2/js/bn
 
 !-----------------------
 
