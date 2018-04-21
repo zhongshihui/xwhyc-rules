@@ -1,59 +1,9 @@
-!  -----更新时间:  2018-04-17 23:10:56   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2018-04-21 12:53:11   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224，534897434,438394572--------------
 
 
 !-------------------------------------------
-52sharing.cn###comment-ad,.banner.banner-post
-@@|http://*/adv_$domain=i-mobile.co.jp
-@@|http://js.passport.qihucdn.com$script
-btshoufa.net##[class^="ADTOP"]
-dnvod.tv##.bfq-l-2,[class^="i-cp "],._AJ,#clickbgleft,#clickbgright,[data-link^="/c/c?position="]
-eastday.com##.dspAd
-ft.com##[class^="banner"],[class^="mpu-container"]
-fx112.com##.aditem
-ihref.com##.adsbygoogle,.banner
-kisssub.org##[class="clear text_center"],[class="gg_"]
-livku.com##.ad960,.adjx
-meiju8.cc##.float_layer_hovertree
-ngacn.cc##[id^="bbs_ads"]
-pconline.com.cn##.ivy
-qqzhibo.net##[id^="ad_"],.banner
-|http://99*.com##.block.spots,[style^="padding-bottom"],[width="1"][height="1"],.dmcenter,.half-img
-|http://99*.com##.dmcenter,.half-img
-|http://99*.com/js/layer.js?ver=1
-|http://alicili.##[src^="http://go.gotourls."],[href^="http://go.gotourls."]
-|http://g1.tagtic.cn/v1/xingyou/c/
-|http://gt.duowan.com/api/g?loc=*shouyebeijing
-|http://m.yfxiaoshuob.com/js/foot.js
-|http://m.yfxiaoshuob.com/js/hfz
-|http://s*.thzok.com
-|http://static.dnvod.tv/upload/video/20*.jpg
-|http://static.dnvod.tv/upload/video/201$image
-|http://static.xpcha.com/js/notice.js
-|http://www.cncrk.com/style2018/js/rjbz.js
-|http://www.dnvod.tv^$s@visibility:visible !important@display:none!important;display:none@
-|http://www.jz5u.com/count.js
-|http://www.viidii.info/$s@function initJ()@function xxx()@
-||52kst.com/web/vip/
-||52shouyou.com.cn
-||cfdanet.com
-||dnvod.tv/Movie/Readyplay.aspx$s@PlayVideo("t");@PlayVideo("txxx");@
-||file.livku.com/g1000/
-||focuscat.com
-||hebzycw.com
-||juren0.com
-||juyzr.com
-||l.qq.com/proxyhttp|$s@{"ad":"{@{"adxxx":"{@
-||meiju8.cc/js/pv*.js$script
-||nga.cn/common_res/js_dscommon.js^
-||ngacn.cc/common_res/js_dscommon.js^
-||qqzhibo.net/?a=check&*&gg=
-||sezvc.com
-||sysal.cn
-||tongda-bearings.com/d1/
-||wzaigo.com
-||zhongzk.com
-||zimuku.cn/images/v2/js/bn
+
 
 !-----------------------
 
