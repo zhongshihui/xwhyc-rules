@@ -1,9 +1,24 @@
-!  -----更新时间:  2018-04-21 12:53:11   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2018-04-25 23:25:25   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224，534897434,438394572--------------
 
 
 !-------------------------------------------
-
+63ef.com##.DaKuang
+autohome.com.cn##.union-ad-placeholder,.monkey-row,.monkeyicon-br,.ad-common
+avppx.com##.top
+caoporn.com###middleimg,[height="75"],img[height="315"],#alltext,[height="180"],[height="60"],[width="760"][height="120"],[height="80"],[style="margin-top:5px;margin-bottom:5px;"],[height="250"],[src^="https://caoimg.xyz/images/"]
+sejie4.com##.ad
+|http://ccxx*.com##[style^="padding-"],[class="all960"],[width="1"][height="1"]
+|http://fcw##[style^="padding-"],[class="all960"]
+|http://stats.chinaz.com/gj_g/
+|http://storetorrents.##[href^="http://go.gotourl"]
+|http://storetorrents.$s@<div class="footer" >*src="http://www.baidu.com/js/opensug.js"></script>@@
+|http://www.63ef.com/go.js
+||258ydh.com
+||enyayinxiang.com
+||hongdouav8.com$script
+||t66y.com$s@<span class="f24">* 官方独家</a>@@
+||tagtic.cn/g.js
 
 !-----------------------
 
