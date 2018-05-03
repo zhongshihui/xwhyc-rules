@@ -1,9 +1,20 @@
-!  -----更新时间:  2018-04-30 17:24:22   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2018-05-02 23:00:00   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224，534897434,438394572--------------
 
 
 !-------------------------------------------
-
+fengniao.com##.ad,div[style*="background: url('https://ad."],[id^="AD"]
+winning11cn.com##[class="hdc cl"][style],.eis_topad
+tzuqiu.cc##.carouselThumbmsc_3,.linktozjtz,[src^="http://ov6k0d941.bkt.clouddn.com/xds20"]
+||fangyuan365.com/js/fangyuan5.js
+||tiexue.net/ws_show.js
+tiexue.net##.big-img-ads
+jrzj.com##[src^="https://img.jrzj.com/img_index/newsadv"],.infor_comment
+|http://*/templets/001/images/js/jquery.js
+|http://taohua##.a_fl,.a_cb,.a_cn,.a_pb,[height="60"],.it618_firstad_flex,[style="margin-top:5px"],[style="margin-bottom:5px"],#toptb + div[align="center"]
+@@|http://vs5.bdstatic.com/browse_static/v3/common/widget/global/admLoader/main_
+|http://c.wechat.jx.cn$script
+xdowns.com###tips.tips
 
 !-----------------------
 
