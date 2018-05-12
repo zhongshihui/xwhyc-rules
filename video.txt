@@ -1,4 +1,4 @@
-!  -----更新时间:  2018-05-10 23:29:30   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2018-05-11 23:55:22   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224，534897434,438394572--------------
 
 
@@ -13,6 +13,7 @@
 @@|http://vs5.bdstatic.com/browse_static/v3/common/widget/global/admLoader/main_
 @@||cachead.com/*.css
 admin5.com##.float_both_index,#content_right_sticker-sticky-wrapper,.infoAd,.rightBottomAd,.sherry_ad1
+autohome.com.cn##.game-full-169,[class^="adv0"]
 debulu.org##.banner,.sidead
 fengniao.com##.ad,div[style*="background: url('https://ad."],[id^="AD"]
 hualongxiang.com##.bbs_box_gg,.quick_reply_ad,#ads_d_tpc
@@ -21,7 +22,9 @@ javazhijia.com##[style="padding:4px;"]
 jrzj.com##[src^="https://img.jrzj.com/img_index/newsadv"],.infor_comment
 juqingba.cn##.jqright1
 keaidian.com##.lanmu_di
+kuai8.com##.Ad1,.Ad2,[id$="_Ad"]
 qnvod.net##.imgright
+shinybbs.info##.a_h,.a_mu
 superlife.ca##[class*="ad"]
 tiexue.net##.big-img-ads
 tzuqiu.cc##.carouselThumbmsc_3,.linktozjtz,[src^="http://ov6k0d941.bkt.clouddn.com/xds20"]
@@ -29,6 +32,7 @@ winning11cn.com##[class="hdc cl"][style],.eis_topad
 xda-developers.com##.purchad,.ad-tag,.leaderboard
 xdowns.com###tips.tips
 xiaodao.la##[height="364"]
+zimushe.com##[href^="https://www.zimushe.com/go.php?url=http"],.videobg
 |balmoralmkt.com
 |http://*.com/js/1playerad.js
 |http://*.com/js/bot.js
@@ -54,15 +58,23 @@ xiaodao.la##[height="364"]
 ||fangyuan365.com/js/fangyuan5.js
 ||gtiou.com^
 ||h5f2.com/image/ll/
+||js.yaoyl.com/js/ds.js
 ||juqingba.cn/templets/Default/css_juqingba/cont.js
+||kankantv.la/javascript/thea
+||kuai8.com/news/$s@<script src="https://js.yaoyl.com/js/ds.js"></script>@@
 ||l.aiseet.atianqi.com/livemsg^
 ||lives.l.aiseet.atianqi.com/livemsg^$s@<duration>??000</duration>@<duration>0</duration>
+||m.autohome.com.cn/news/mar_usersee/acti/usee.html?-
 ||openxt.cn
 ||pipipan.com/fs/$s@var _popup_ispoped =*</script>@</script>@
 ||pl.cp12.wasu.tv/playlist/m3u8?keyframe=*&type=mp4&
 ||qjhlc.com^
 ||tiexue.net/ws_show.js
+||ups.youku.com/ups/get.json^$s@"ad":@"adxxx":@
 ||vali.cp12.wasu.tv*.mp4.ts
+||vali.cp31.ott.cibntv.net/*&duration=
+||www.kan98.com/statics/js/k2017/98soc.js
+||www.kan98.com/statics/js/k2017/total.js
 ||xmgysweb.com
 ||y12f.com
 ||yezilm.com$third-party
