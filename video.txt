@@ -1,9 +1,26 @@
-!  -----更新时间:  2018-05-12 13:52:00   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2018-05-13 16:14:30   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224，534897434,438394572--------------
 
 
 !-------------------------------------------
-
+/variety.tc.qq.com/*.mp4?vkey=*&sdtfrom=&fmt=shd&level=0
+/vlive.qqvideo.tc.qq.com/*.mp4?vkey=*&sdtfrom=&fmt=shd&level=0
+|http://104.37.245.11/$script
+|http://pcvideo*.titan.mgtv.com/pb/201*.mp4?arange=0
+|http://y.da.hunantv.com/app/
+||adxpansion.com
+||cf1c0.thisav.com/index.js
+||czzdf.com
+||djb777.com/template/dajibacao/js/
+||jingdayiyuan.com
+||lm.m.xiashu.la/*.html?ts=
+||lm.xiashu.la/mgd/*.html?ssid=
+||lm.xiashu.la/mxf/
+||m.da.mgtv.com/m/player?_type_object=
+||m.da.mgtv.com/m5/player?_type_object=
+||mengpr.com
+||nykps.com
+||vali.cp31.ott.cibntv.net/youku/*.mp4?sid=
 !-----------------------
 
 
