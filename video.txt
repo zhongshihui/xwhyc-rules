@@ -1,26 +1,49 @@
-!  -----更新时间:  2018-05-13 16:14:30   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2018-05-17 23:15:05   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224，534897434,438394572--------------
 
 
 !-------------------------------------------
-/variety.tc.qq.com/*.mp4?vkey=*&sdtfrom=&fmt=shd&level=0
-/vlive.qqvideo.tc.qq.com/*.mp4?vkey=*&sdtfrom=&fmt=shd&level=0
+/variety.tc.qq.com/*.mp4^*&fmt=shd
+/vlive.qqvideo.tc.qq.com/*.mp4^*&fmt=shd
+autohome.com.cn##.game-full-169,[class^="adv0"]
+autohome.com.cn##[href^="https://c.autohome.com.cn/adfront/"]
+china.com##.mxm
+hao123.com##.mp-app-ad,.temp-items:not([recom-hooks-item])
+kuai8.com##.Ad1,.Ad2,[id$="_Ad"]
+landiannews.com##.asd-post
+shinybbs.info##.a_h,.a_mu
+subhd.com##[src^="/images/ap/"]
+zimushe.com##[href^="https://www.zimushe.com/go.php?url=http"],.videobg
 |http://104.37.245.11/$script
 |http://pcvideo*.titan.mgtv.com/pb/201*.mp4?arange=0
+|http://www.wlxtq.com/
 |http://y.da.hunantv.com/app/
+||258pct.com
+||36900pt.com
+||77ds.vip/js/77ad.js
 ||adxpansion.com
 ||cf1c0.thisav.com/index.js
 ||czzdf.com
 ||djb777.com/template/dajibacao/js/
+||huanqiucaizhi.com^
+||jgkto.com
 ||jingdayiyuan.com
+||js.yaoyl.com/js/ds.js
+||kuai8.com/news/$s@<script src="https://js.yaoyl.com/js/ds.js"></script>@@
 ||lm.m.xiashu.la/*.html?ts=
 ||lm.xiashu.la/mgd/*.html?ssid=
 ||lm.xiashu.la/mxf/
+||m.autohome.com.cn/news/mar_usersee/acti/usee.html?-
 ||m.da.mgtv.com/m/player?_type_object=
 ||m.da.mgtv.com/m5/player?_type_object=
 ||mengpr.com
 ||nykps.com
+||static.hltv.org//images/*/ggbet/
+||ups.youku.com/ups/get.json^$s@"ad":@"adxxx":@
 ||vali.cp31.ott.cibntv.net/youku/*.mp4?sid=
+||www.kan98.com/statics/js/k2017/98soc.js
+||www.kan98.com/statics/js/k2017/total.js
+||yenlm.com
 !-----------------------
 
 
