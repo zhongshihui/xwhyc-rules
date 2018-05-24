@@ -1,21 +1,31 @@
-!  -----更新时间:  2018-05-17 23:15:05   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2018-05-23 23:37:12   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224，534897434,438394572--------------
 
 
 !-------------------------------------------
 /variety.tc.qq.com/*.mp4^*&fmt=shd
 /vlive.qqvideo.tc.qq.com/*.mp4^*&fmt=shd
+@@||com/xxgg/common.js
+@@||com/xxgg/read.js
 autohome.com.cn##.game-full-169,[class^="adv0"]
 autohome.com.cn##[href^="https://c.autohome.com.cn/adfront/"]
 china.com##.mxm
 hao123.com##.mp-app-ad,.temp-items:not([recom-hooks-item])
 kuai8.com##.Ad1,.Ad2,[id$="_Ad"]
 landiannews.com##.asd-post
+leiling.org##[class^="ad__"]
+loldk.com##[height="90"]
 shinybbs.info##.a_h,.a_mu
 subhd.com##[src^="/images/ap/"]
+tv.sohu.com##.advertise,#ad_banner
+xia1ge.com##.wsappad,.adsbygoogle,.category-iloveyou
 zimushe.com##[href^="https://www.zimushe.com/go.php?url=http"],.videobg
 |http://104.37.245.11/$script
+|http://bla.gtimg.com/qqlive/201*/BRDS_*.mp4|
+|http://contextual.media.net/fcmdynet.js$domain=sihmar.com
+|http://e.*.xhtml?|
 |http://pcvideo*.titan.mgtv.com/pb/201*.mp4?arange=0
+|http://vod.cnzol.com/template/style/images/lcdl.js
 |http://www.wlxtq.com/
 |http://y.da.hunantv.com/app/
 ||258pct.com
@@ -23,6 +33,7 @@ zimushe.com##[href^="https://www.zimushe.com/go.php?url=http"],.videobg
 ||77ds.vip/js/77ad.js
 ||adxpansion.com
 ||cf1c0.thisav.com/index.js
+||com/xxgg/
 ||czzdf.com
 ||djb777.com/template/dajibacao/js/
 ||huanqiucaizhi.com^
@@ -30,10 +41,13 @@ zimushe.com##[href^="https://www.zimushe.com/go.php?url=http"],.videobg
 ||jingdayiyuan.com
 ||js.yaoyl.com/js/ds.js
 ||kuai8.com/news/$s@<script src="https://js.yaoyl.com/js/ds.js"></script>@@
+||lianmeng.la/cde/image.js
+||lianmeng.la/cde/yesshow.js
 ||lm.m.xiashu.la/*.html?ts=
 ||lm.xiashu.la/mgd/*.html?ssid=
 ||lm.xiashu.la/mxf/
 ||m.autohome.com.cn/news/mar_usersee/acti/usee.html?-
+||m.biqugexsw.com/js/booknew.js
 ||m.da.mgtv.com/m/player?_type_object=
 ||m.da.mgtv.com/m5/player?_type_object=
 ||mengpr.com
@@ -43,6 +57,7 @@ zimushe.com##[href^="https://www.zimushe.com/go.php?url=http"],.videobg
 ||vali.cp31.ott.cibntv.net/youku/*.mp4?sid=
 ||www.kan98.com/statics/js/k2017/98soc.js
 ||www.kan98.com/statics/js/k2017/total.js
+||xinjuji.com/js/9.js
 ||yenlm.com
 !-----------------------
 
