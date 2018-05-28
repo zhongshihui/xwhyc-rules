@@ -781,7 +781,7 @@ avcome.com##center>p
 avi.blog.jp##div[class="clearfix nav_list icon_list"]
 avidh.net##div#ad_right,div#ad_left,div.tupian
 avlang\d{2}\.info##[height="60"]
-avppx.com##.top
+avppx.com,ppx15.com##.top
 avseesee.com##.ads,.ads-player,iframe[width="585"][height="260"]
 awaker.cn###bew_10010,.adsbygoogle,div#wp125-2,div#text-31
 awaker.hk##.adsbygoogle,.wild_adv,[id^="bew_100"]
@@ -4783,7 +4783,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |http://data.jijidown.com/free/*.txt|
 |http://data.video.qiyi.com/videos/other/$f@s@\.f4v\?@.f4vxxx?@
 |http://data.vod.itc.cn/?new=*.mp4|
-|http://data.vod.itc.cn/?prod=ad&new=*.mp4
+||data.vod.itc.cn/*&prod=ad&*.mp4
 |http://db-cache.t57.cn/cert.php
 |http://dcads.sina.com.cn/html.ng/pos=tvselbanner&site=sina
 |http://dd.ma/$s@<script src="http://ck.cp*"></script>@@
@@ -5449,8 +5449,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |http://m.cishuge.com/js/yb.js
 |http://m.ckck.tv/inc/myidong.js
 |http://m.d8qu.com/style.js$s@function d8top()*function _17mb_tj()@function xxx()@
-|http://m.da.mgtv.com/m/player?_type_object=
-|http://m.da.mgtv.com/m5/player?_type_object=
+||m.da.mgtv.com/m/player?_type_object=
+||m.da.mgtv.com/m5/player?_type_object=
 |http://m.dangniao.com/js/$script
 |http://m.ddbiquge.com/$s@var d = (/(UCBrowser|QQBrowser)/i.test(navigator.userAgent))@@
 |http://m.ddbiquge.com/wapbook/$s@<script type="text/javascript" src="http://www.nbjjd.com*></script>@@
@@ -10328,7 +10328,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||up.hiao.com
 ||up.qingdaonews.com
 ||uploadrocket.net$s@mc_s1.async = true;@ mc_s1.async =false ;@
-||ups.youku.com/ups/get.json^$s@"ad":@"adxxx":@
 ||uqie4nzy.com
 ||user.xmp.stat.kankan.com/?u=*=
 ||usingde.com$third-party
