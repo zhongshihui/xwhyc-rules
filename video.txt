@@ -72,7 +72,6 @@ zimushe.com##[href^="https://www.zimushe.com/go.php?url=http"],.videobg
 ||mengpr.com
 ||nykps.com
 ||static.hltv.org//images/*/ggbet/
-||ups.youku.com/ups/get.json^$s@"ad":@"adxxx":@
 ||vali.cp31.ott.cibntv.net/youku/*.mp4?sid=
 ||www.kan98.com/statics/js/k2017/98soc.js
 ||www.kan98.com/statics/js/k2017/total.js
