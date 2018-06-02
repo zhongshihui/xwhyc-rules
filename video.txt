@@ -1,10 +1,20 @@
-!  -----更新时间:  2018-06-01 23:27:40   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2018-06-02 18:27:30   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224，534897434,438394572--------------
 
 
 !-------------------------------------------
-
-
+||shaqm.com/h5/partner/plg_
+liuxue86.com###insert-banner
+||84lm.net
+||0516bm.com
+sydneytoday.com,meltoday.com##.mtgad,[id^="div-gpt-ad-"],[src^="http://cdn36.chinesetoday.cn/2017/ad/"],[src^="http://cdn36.chinesetoday.cn/2018/ad/"]
+meipuw.com##.arcbodyad,[class^="lad"],[src^="/gg/"]
+|http://www.meipuw.com/style/ad
+||xiongdong.com
+||xavingtsun.com
+@@|http://s.feng.com/static/js/yun.min.js
+sohu.com##[data-role="god_column"],.godR
+||wrvdmh.cn
 
 !-----------------------
 
