@@ -1,21 +1,44 @@
-!  -----更新时间:  2018-06-02 18:27:30   by:xwhyc-----------------------------------------------
+!  -----更新时间:  2018-06-06 23:26:15   by:xwhyc-----------------------------------------------
 !  -----广告反馈:http://www.adbyby.com/help.htm   QQ群: 79547134(满), 364066294(满)，470705224，534897434,438394572--------------
 
 
 !-------------------------------------------
-||shaqm.com/h5/partner/plg_
-liuxue86.com###insert-banner
-||84lm.net
-||0516bm.com
-sydneytoday.com,meltoday.com##.mtgad,[id^="div-gpt-ad-"],[src^="http://cdn36.chinesetoday.cn/2017/ad/"],[src^="http://cdn36.chinesetoday.cn/2018/ad/"]
-meipuw.com##.arcbodyad,[class^="lad"],[src^="/gg/"]
-|http://www.meipuw.com/style/ad
-||xiongdong.com
-||xavingtsun.com
+39yst.com##.add1
 @@|http://s.feng.com/static/js/yun.min.js
+@@||max-l.mediav.com
+aiuw.com##.dw_ad,#JS_side_fixed_ad,.sideTest
+baihei.net##.a_mu,#diy1,.a_cb,.a_cn,.a_pt,[height="60"],[height="90"]
+guancha.cn##.adsbygoogle
+laogu.com###ad1
+libaclub.com##.ui-ad
+liuxue86.com###insert-banner
+meipuw.com##.arcbodyad,[class^="lad"],[src^="/gg/"]
+mop.com##[class^="watermark-"],.ggid
+natgeomedia.com##.ad-wrapper
+nbegame.com##.asddss,.container.asds,.topads
+nutgeek.com##.post-adv,.widget_custom_html,.adv-grid,.suxing-adv
+pcpop.com###feedAv
+pcpop.com##.ad-pc-feed
+qiqipu.com##.cont-msg-gw
 sohu.com##[data-role="god_column"],.godR
+sydneytoday.com,meltoday.com##.mtgad,[id^="div-gpt-ad-"],[src^="http://cdn36.chinesetoday.cn/2017/ad/"],[src^="http://cdn36.chinesetoday.cn/2018/ad/"]
+xlyy100.com##.ershiba
+yxdown.com###tl_adv
+|http://changyan.itc.cn/mdevp/extensions/cmt-advert/*/cmt-advert.js
+|http://w.waacorp.com/ad?id=
+|http://www.meipuw.com/style/ad
+||0516bm.com
+||84lm.net
+||data.9xiazaiqi.com/script/77pk.js
+||erdsyzb.com
+||leamain.net
+||mop.com/js/common/watermark.js^
+||shaqm.com/h5/partner/plg_
+||static1.dmcdn.net/neon/prod/
+||sxmdxy.com
 ||wrvdmh.cn
-
+||xavingtsun.com
+||xiongdong.com
 !-----------------------
 
 
